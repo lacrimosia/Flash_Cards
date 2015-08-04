@@ -1843,7 +1843,97 @@
 			"soundfile": "",
 			"definition": "Addressing some of the skill problems that may exist within the team. Significant learning and development occurs as team members interact to help and to learn from each other. The project manager should facilitate the process of integration, ensure that everyone feels an equal member of the team, and encourage the teamwork attitude from the start."
         }
-    ]
+    ],
+	"chapter9":[
+	    {
+		    "id": "1",
+		    "chapter": "9",
+			"term": "Benefits realization programs",
+			"pronun": "ben-uh-fit ree-uh-luh-zey-shuh n proh-gram",
+			"soundfile": "",
+			"definition": "A means of ensuring that these CSFs have the highest possibility of being satisfied when the project is operational."
+        },
+        {
+		    "id": "2",
+		    "chapter": "9",
+			"term": "Brainstorming",
+			"pronun": "breyn-stawr-ming",
+			"soundfile": "",
+			"definition": "A team activity aimed at generating a cross-stimulation of ideas. It is used in a semi-formal setting to generate ideas, where the ideas of one person serve as a stimulus to generate further ideas from other people, which in turn serve as a stimulus for further ideas, and so on. Judgment on the usefulness or validity of the ideas is suspended until the brainstorming session is completed."
+        },
+        {
+		    "id": "3",
+		    "chapter": "9",
+			"term": "Case-based reasoning (CBr)",
+			"pronun": "keys-based ree-zuh-ning",
+			"soundfile": "",
+			"definition": "A formalization of the process whereby decisions are based on previous experience. A case reveals knowledge in its natural context and represents an experience that teaches a lesson relating to the goals of the practitioner. These lessons can be useful in understanding a new project."
+        },
+		{
+		    "id": "4",
+		    "chapter": "9",
+			"term": "Contingency funds",
+			"pronun": "kuh n-tin-juh n-see fuhnds",
+			"soundfile": "",
+			"definition": "Funds provided for out-of-the-ordinary situations. Contingency funds are not provided to make up for bad management, poor performance, or inadequate control."
+        },
+		{
+		    "id": "5",
+		    "chapter": "9",
+			"term": "Contingency plan",
+			"pronun": "kuh n-tin-juh n-see plan",
+			"soundfile": "",
+			"definition": "Plans that indicate alternative methods for responding to project risks."
+        },
+		{
+		    "id": "6",
+		    "chapter": "9",
+			"term": "Contract employees",
+			"pronun": "kon-trakt em-ploi-ee",
+			"soundfile": "",
+			"definition": "Work for the duration of the project."
+        },
+		{
+		    "id": "7",
+		    "chapter": "9",
+			"term": "Critical success factors (CSFs)",
+			"pronun": "krit-i-kuh l suh k-ses fak-ters",
+			"soundfile": "",
+			"definition": "The set of factors that can be considered critical to the success of the project (in our case – they can relate to the organization, department, or even a role, such as that of the CIO)."
+        },
+		{
+		    "id": "8",
+		    "chapter": "9",
+			"term": "Cross-impact approaches",
+			"pronun": "kraws-im-pakt uh-prohch",
+			"soundfile": "",
+			"definition": "Helps identify potential events, trends, and conditions that impact on the decision and on each other."
+        },
+		{
+		    "id": "9",
+		    "chapter": "9",
+			"term": "Delphi method",
+			"pronun": "del-fahy meth-uh d",
+			"soundfile": "",
+			"definition": "Uses an iterative and interactive approach to generate consensus about a topic from among a group."
+        },
+		{
+		    "id": "10",
+		    "chapter": "9",
+			"term": "Disentanglement process",
+			"pronun": "dis-en-tang-guh l pros-es",
+			"soundfile": "",
+			"definition": "Edwin Bennatan argues that projects are rarely impossible to turn around, and he suggests ways in which failing projects can be turned around."
+        },
+		{
+		    "id": "11",
+		    "chapter": "9",
+			"term": "Employee acceptance",
+			"pronun": "em-ploi-ee ak-sep-tuh ns",
+			"soundfile": "",
+			"definition": "Edwin Bennatan argues that projects are rarely impossible to turn around, and he suggests ways in which failing projects can be turned around."
+        }
+	]
 }
 
 
