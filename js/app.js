@@ -24,17 +24,33 @@ app.config(['$routeProvider',
       });
   }]);
   
-  
- 
- app.controller('AccordionDemoCtrl', function ($scope) {
+ app.controller('AccordionDemoCtrl', function ($scope, $location, $routeParams, $route) {
   $scope.oneAtATime = true;
   $scope.oneAtATime1 = true;
 
-$scope.changeStatus = function(numbers){
-	
+
+	$scope.change = [
+	   {
+		'one': 'Chapter-1',
+		open: true
+	   }
+	];
+
+$scope.linkParam = [];
+$scope.par = function(){
+	$scope.linkParam.push($routeParams.chapters);
+	// console.log($scope.linkParam[0]);
+	if($scope.linkParam[$scope.linkParam.length-1] == $scope.change[0].one){
+		//console.log($scope.change[0].open);
+		return $scope.change[0].open;
+	}
 };
+	
+$scope.opened = false;
+
+
   
- // chapter 1
+/*  // chapter 1
 var status = {
     isFirstOpen: true,
     isFirstDisabled: false
@@ -101,7 +117,7 @@ var status12 = {
     isFirstOpen: true,
     isFirstDisabled: false
   };
-  
+   */
   // chapter 4
 
 });

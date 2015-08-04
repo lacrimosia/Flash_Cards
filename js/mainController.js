@@ -52,10 +52,6 @@ grabData.get(function(data){
          $scope.allTerms14 = data.chapter14; */
 });
 
-
-// load sound
-$scope.sound = ngAudio.load("audio/testing.mp3");
-
 // stores current term index	
     $scope.shared = [];
 	
@@ -89,12 +85,14 @@ $scope.sound = ngAudio.load("audio/testing.mp3");
 	// change term
 	$scope.theNum = $scope.shared;
 	
+
 // changes link for practice terms	
 	$scope.PracticeTerm = function(num){
 		for(var r=1; r<15; r++){
 			if(num == r){
-				console.log('practicing', '/practice/Chapter-'+$scope['allTerms'+r][$scope.shared[$scope.shared.length-1]].chapter);
+				// console.log('practicing', '/practice/Chapter-'+$scope['allTerms'+r][$scope.shared[$scope.shared.length-1]].chapter);
 			  $location.url('/practice/Chapter-'+$scope['allTerms'+r][$scope.shared[$scope.shared.length-1]].chapter+'/' + $scope['allTerms'+r][$scope.shared[$scope.shared.length-1]].term); 
+			// return $scope.['allTerms'+r][r].pronun;
 		  }
 		}
 	};
@@ -361,14 +359,8 @@ for(var s=0; s<15; s++){
 }
 };
 
-
- $scope.reviews = function(chaps){
- for(var g=0; g<15; g++){
-	  if(chaps == 'Chapter-'+g){
-			$location.url('/review/Chapter-'+g+'/'+$scope['allTerms'+g][0].term); 
-    }
- }
-};
+// load sound
+$scope.sound = ngAudio.load("audio/testing.mp3");
 	
 }]);
 

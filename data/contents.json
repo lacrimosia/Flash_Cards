@@ -10,7 +10,7 @@
 		    "chapter": "1",
 			"term": "Closing stage",
 			"pronun": "kloh-zing steyj",
-			"soundfile": "",
+			"soundfile": "audio/testing.mp3",
 			"definition": "The customer formally accepts the project deliverable, project-related contracts are terminated, project documents are archived, and project audits and other tasks are conducted to administratively close the project."
         },
 		{
@@ -1931,7 +1931,127 @@
 			"term": "Employee acceptance",
 			"pronun": "em-ploi-ee ak-sep-tuh ns",
 			"soundfile": "",
-			"definition": "Edwin Bennatan argues that projects are rarely impossible to turn around, and he suggests ways in which failing projects can be turned around."
+			"definition": "Some projects have the potential to create change in the work process, quality of work, work planning, customer service, management expectations, and the like. Because of the uncertainty that such a project creates, employees often react cautiously and, at times, negatively to change."
+        },
+		{
+		    "id": "12",
+		    "chapter": "9",
+			"term": "Employee attitude toward change",
+			"pronun": "em-ploi-ee at-i-tood tawrd cheynj",
+			"soundfile": "",
+			"definition": "Influenced by organizational culture and management style. Some organizations aggressively seek new ideas and change."
+        },
+		{
+		    "id": "13",
+		    "chapter": "9",
+			"term": "Evaluating project risks",
+			"pronun": "ih-val-yoo-eyt-ing proj-ekt risks",
+			"soundfile": "",
+			"definition": "Generates a ranked list of potential risks. "
+        },
+		{
+		    "id": "14",
+		    "chapter": "9",
+			"term": "External risks",
+			"pronun": "ik-stur-nl risks",
+			"soundfile": "",
+			"definition": "Organizations that lack internal expertise are forced to rely on external resources with all of the potential cost and security issues that this entails, and associated with a number of issues."
+        },
+		{
+		    "id": "15",
+		    "chapter": "9",
+			"term": "Identifying project risks",
+			"pronun": "ahy-den-tuh-fahy-ing pro-jekt risks",
+			"soundfile": "",
+			"definition": "There are multiple sources of risk for projects. Sometimes these risks interact and create new and more complex risks associated with project development activities."
+        },
+		{
+		    "id": "16",
+		    "chapter": "9",
+			"term": "Internal risks",
+			"pronun": "in-tur-nl risks",
+			"soundfile": "",
+			"definition": "Continued management support, Top management style, Alignment with organizational needs, Attitude toward change, Shifting goals and objectives, and Developmental expertise and talent pool."
+        },
+		{
+		    "id": "17",
+		    "chapter": "9",
+			"term": "Mitigating risk",
+			"pronun": "mit-i-geyt-ing risk",
+			"soundfile": "",
+			"definition": "Once risks are identified and ranked, the project manager must plan to mitigate and reduce the effect of each risk. Additional resources are usually required, depending on the nature and extent of the potential risk."
+        },
+		{
+		    "id": "18",
+		    "chapter": "9",
+			"term": "Morphological approaches",
+			"pronun": "mawr-fol-uh-jee-cul uh-prohch-es",
+			"soundfile": "",
+			"definition": "Identify a number of future states that are built on different assumptions. These assumptions might relate to expected states for the economy, depletions or findings of natural resources, changes in people’s values or lifestyles, or changes in the political persuasion of a new government."
+        },
+		{
+		    "id": "19",
+		    "chapter": "9",
+			"term": "Planning a response to risk",
+			"pronun": "plan-ing a ri-spons too risk",
+			"soundfile": "",
+			"definition": "Project managers must consider the potential impact, the likelihood of occurrence, and the difficulty of response."
+        },
+		{
+		    "id": "20",
+		    "chapter": "9",
+			"term": "Problems with risk analysis",
+			"pronun": "prob-luh ms with risk uh-nal-uh-sis",
+			"soundfile": "",
+			"definition": "An important result of more detailed risk analysis is that decision makers can gain an understanding of the trade-off between the expected risks and the costs of different alternatives, giving a firm basis upon which to make and compare decisions."
+        },
+		{
+		    "id": "21",
+		    "chapter": "9",
+			"term": "Risk assessment",
+			"pronun": "risk uh-ses-muh nt",
+			"soundfile": "",
+			"definition": "Should be done for every task. Probably around 80% of tasks are low risk, and the project manager will assume team members will do these tasks competently. The project manager needs to identify and then spend 80% of their time working on the 20% of tasks that are higher risk tasks."
+        },
+		{
+		    "id": "22",
+		    "chapter": "9",
+			"term": "Risk breakdown structure",
+			"pronun": "risk breyk-doun struhk-cher",
+			"soundfile": "",
+			"definition": "Produced in a manner rather similar to the work breakdown structure."
+        },
+		{
+		    "id": "23",
+		    "chapter": "9",
+			"term": "Risk management",
+			"pronun": "risk man-ij-muh nt",
+			"soundfile": "",
+			"definition": "Involves understanding potential problems that might occur for a project and how these problems might impede project success."
+        },
+		{
+		    "id": "24",
+		    "chapter": "9",
+			"term": "Risk of discontinued top management",
+			"pronun": "risk uhv dis-kuh n-tin-yoo-ed top man-ij-muh nt",
+			"soundfile": "",
+			"definition": "The project manager must be able to assess the likelihood for lack of continued support for the project at the outset. This depends on the following factors. The relationship between the project manager and top management. The management’s perception of the importance of the project. The project’s integration (how many divisions within the organization are affected by the outcome). The progress expectation (how reliable are estimates that will influence timely completion of the project within budget)."
+        },
+		{
+		    "id": "25",
+		    "chapter": "9",
+			"term": "Scenario planning",
+			"pronun": "si-nair-ee-oh plan-ing",
+			"soundfile": "",
+			"definition": "An internally consistent view of what the future might turn out to be – not a forecast, but one possible future outcome. Also, that part of strategic planning which relates to the tools and technologies for managing the uncertainties of the future."
+        },
+		{
+		    "id": "26",
+		    "chapter": "9",
+			"term": "SWOt analysis",
+			"pronun": "swot uh-nal-uh-sis",
+			"soundfile": "",
+			"definition": "SWOT is an acronym for Strengths, Weaknesses, Opportunities, and Threats. During the analysis, items that fit into these categories and that apply to the project are identified."
         }
 	]
 }

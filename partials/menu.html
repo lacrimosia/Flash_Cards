@@ -1,12 +1,12 @@
 <div ng-controller="AccordionDemoCtrl"> 
-  <accordion close-others="oneAtATime">
+  <accordion>
   <!--chapter 1-->
-    <accordion-group is-open="status.open"  is-disabled="status.isFirstDisabled">
+    <accordion-group is-open="par()">
 		<accordion-heading>
 			<i class="fa fa-book"></i> Chapter 1<i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
 		</accordion-heading>
         <accordion  close-others="oneAtATime">
-          <accordion-group is-open="status2.open"  is-disabled="status2.isFirstDisabled">
+          <accordion-group is-open="par()">
 		  <accordion-heading>
 			Practice <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status2.open, 'glyphicon-chevron-right': !status2.open}"></i>
 		</accordion-heading>
@@ -15,7 +15,7 @@
 			</ul>
           </accordion-group>
 		  
-          <accordion-group is-open="status3.open"  is-disabled="status3.isFirstDisabled">
+          <accordion-group is-open="status3.open">
 		   <accordion-heading>
 			Review<i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status3.open, 'glyphicon-chevron-right': !status3.open}"></i>
 		</accordion-heading>
@@ -28,12 +28,12 @@
 	
 	
 	  <!--chapter 2-->
-    <accordion-group is-open="status4.open"  is-disabled="status4.isFirstDisabled">
+    <accordion-group is-open="status4.open">
 		<accordion-heading>
 			<i class="fa fa-book"></i> Chapter 2<i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status4.open, 'glyphicon-chevron-right': !status4.open}"></i>
 		</accordion-heading>
         <accordion close-others="oneAtATime">
-          <accordion-group is-open="status5.open"  is-disabled="status5.isFirstDisabled">
+          <accordion-group is-open="status5.open">
 		  <accordion-heading>
 			Practice <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status5.open, 'glyphicon-chevron-right': !status5.open}"></i>
 		</accordion-heading>
@@ -42,7 +42,7 @@
 			</ul>
           </accordion-group>
 		  
-          <accordion-group is-open="status6.open"  is-disabled="status6.isFirstDisabled">
+          <accordion-group is-open="status6.open">
 		   <accordion-heading>
 			Review<i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status6.open, 'glyphicon-chevron-right': !status6.open}"></i>
 		</accordion-heading>
@@ -54,12 +54,12 @@
     </accordion-group><!-- chapter 2-->
 	
 	<!--chapter 3-->
-    <accordion-group is-open="status7.open"  is-disabled="status7.isFirstDisabled">
+    <accordion-group is-open="status7.open">
 		<accordion-heading>
 			<i class="fa fa-book"></i> Chapter 3<i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status7.open, 'glyphicon-chevron-right': !status7.open}"></i>
 		</accordion-heading>
         <accordion close-others="oneAtATime">
-          <accordion-group is-open="status5.open"  is-disabled="status5.isFirstDisabled">
+          <accordion-group is-open="status5.open">
 		  <accordion-heading>
 			Practice <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status8.open, 'glyphicon-chevron-right': !status8.open}"></i>
 		</accordion-heading>
@@ -68,7 +68,7 @@
 			</ul>
           </accordion-group>
 		  
-          <accordion-group is-open="status6.open"  is-disabled="status6.isFirstDisabled">
+          <accordion-group is-open="status6.open">
 		   <accordion-heading>
 			Review<i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status9.open, 'glyphicon-chevron-right': !status9.open}"></i>
 		</accordion-heading>
