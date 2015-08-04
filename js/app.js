@@ -1,4 +1,4 @@
-var app = angular.module('test', ['ngRoute', 'ui.bootstrap']);
+var app = angular.module('test', ['ngRoute', 'ui.bootstrap', 'ngAudio']);
 
 
 // routes

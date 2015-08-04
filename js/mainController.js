@@ -1,4 +1,4 @@
-app.controller("mainCtrl", ['$scope', 'grabData', '$location', '$routeParams', '$route', '$parse', function($scope, grabData, $location, $routeParams, $route, $parse) {
+app.controller("mainCtrl", ['$scope', 'grabData', '$location', '$routeParams', '$route', '$parse', 'ngAudio', function($scope, grabData, $location, $routeParams, $route, $parse, ngAudio) {
 	
 	// getting routing defaults
 	$scope.$route = $route;
@@ -52,9 +52,10 @@ grabData.get(function(data){
          $scope.allTerms14 = data.chapter14; */
 });
 
-// variables	
-	$scope.inputText = "";    // User text
-	$scope.next = 0;             // questions array position
+
+// load sound
+$scope.sound = ngAudio.load("audio/testing.mp3");
+
 // stores current term index	
     $scope.shared = [];
 	
