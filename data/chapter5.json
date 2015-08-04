@@ -1,0 +1,267 @@
+{
+    "title": "IS 378 - Important Concepts",
+	"chapter": "5",
+    "author": "Shatilla Prayer",
+    "version": "1.0",
+    "practice_instructions": "Enter the definition to the term above. Click View Answer to view the term definition.",
+    "chapter": [
+        {
+		    "id": "1",
+		    "chapter": "5",
+			"term": "Allocation of resources",
+			"pronun": "al-uh-key-shuh n uhv ree-sawrs-es",
+			"soundfile": "",
+			"definition": "A task that can make or break a project."
+        },
+		{
+		    "id": "2",
+		    "chapter": "5",
+			"term": "Bottlenecks",
+			"pronun": "bot-l-neks",
+			"soundfile": "",
+			"definition": "A situation that occurs when the input of resources is not sufficient to produce the desired output in a timely manner."
+        },
+		{
+		    "id": "3",
+		    "chapter": "5",
+			"term": "Critical path",
+			"pronun": "krit-i-kuh l path",
+			"soundfile": "",
+			"definition": "The longest path of activities in a network. These activities have zero slack time."
+        },
+		{
+		    "id": "4",
+		    "chapter": "5",
+			"term": "Critical path analysis",
+			"pronun": "krit-i-kuh l path uh-nal-uh-sis",
+			"soundfile": "",
+			"definition": "The longest path of activities in a network. These activities have zero slack time."
+        },
+		{
+		    "id": "5",
+		    "chapter": "5",
+			"term": "Critical path analysis",
+			"pronun": "krit-i-kuh l path uh-nal-uh-sis",
+			"soundfile": "",
+			"definition": "A method used to determine the critical path and the presence of slack time on other paths."
+        },
+		{
+		    "id": "6",
+		    "chapter": "5",
+			"term": "Critical path Method (CpM)",
+			"pronun": "krit-i-kuh l path meth-uh d",
+			"soundfile": "",
+			"definition": "A time estimation technique that uses earliest start, earliest finish, latest start, and latest finish to determine the critical path."
+        },
+		{
+		    "id": "7",
+		    "chapter": "5",
+			"term": "Diminishing returns",
+			"pronun": "dih-min-ish ri-turn-s",
+			"soundfile": "",
+			"definition": "A law that states that, beyond a certain point, additional time and energy is unnecessary and, if continued, can be counter-productive."
+        },
+		{
+		    "id": "8",
+		    "chapter": "5",
+			"term": "Disconnect",
+			"pronun": "dis-kuh-nekt",
+			"soundfile": "",
+			"definition": "Planning for productivity changes."
+        },
+		{
+		    "id": "9",
+		    "chapter": "5",
+			"term": "Earliest finish (eF)",
+			"pronun": "ur-lee-est fin-ish",
+			"soundfile": "",
+			"definition": "Is calculated by adding the activity duration to the earliest start time for that activity."
+        },
+		{
+		    "id": "10",
+		    "chapter": "5",
+			"term": "Earliest start (eS)",
+			"pronun": "ur-lee-est stahrt",
+			"soundfile": "",
+			"definition": "Is determined by considering the latest of the earliest finish times for all preceding activities. The earliest start time for activities with multiple predecessors is the largest finish time among all preceding activities."
+        },
+		{
+		    "id": "11",
+		    "chapter": "5",
+			"term": "Estimating activity duration",
+			"pronun": "es-tuh-meyt-ing  ak-tiv-i-tee  doo-rey-shuh n",
+			"soundfile": "",
+			"definition": "Relies on experience, documentation, and input from experts. When uncertain, project managers may obtain multiple estimates for each activity and take the weighted average of the estimates. A popular approach for estimating activity duration involves using the weighted average of three estimates: optimistic, pessimistic, and most likely."
+        },
+		{
+		    "id": "12",
+		    "chapter": "5",
+			"term": "Free time",
+			"pronun": "free tahym",
+			"soundfile": "",
+			"definition": "The difference between the latest start time and the earliest start time, or the difference between the latest finish time and the earliest finish time. Activities on  the critical path do not have slack."
+        },
+		{
+		    "id": "13",
+		    "chapter": "5",
+			"term": "Indecisiveness",
+			"pronun": "in-di-sahy-siv-nis",
+			"soundfile": "",
+			"definition": "Affects project organization, prog-ress, personnel, and ultimately the outcome."
+        },
+		{
+		    "id": "14",
+		    "chapter": "5",
+			"term": "Latest finish (LF)",
+			"pronun": "ley-tist fin-ish",
+			"soundfile": "",
+			"definition": "Is calculated by using the smallest value of the latest start time for all activities leaving that activity."
+        },
+		{
+		    "id": "15",
+		    "chapter": "5",
+			"term": "Latest start (LS)",
+			"pronun": "ley-tist stahrt",
+			"soundfile": "",
+			"definition": "Is calculated by subtracting the activity duration from the latest finish time for that activity."
+        },
+		{
+		    "id": "16",
+		    "chapter": "5",
+			"term": "Monitoring time",
+			"pronun": "mon-i-ter-ing tahym",
+			"soundfile": "",
+			"definition": "Project managers who end up with a great deal of overtime or repeated delays should evaluate their time management principles carefully. An effective and experienced project manager should be able to evaluate, with reasonable accuracy, how long the project will take and how many staff hours are available for the project (leaving some margin of error for unexpected interruptions)."
+        },
+		{
+		    "id": "17",
+		    "chapter": "5",
+			"term": "Most likely estimate",
+			"pronun": "mohst lahyk-lee es-tuh-meyt",
+			"soundfile": "",
+			"definition": "Is based on a reasonable assumption of normal-ity, somewhere between the optimistic and the pessimistic estimates."
+        },
+		{
+		    "id": "18",
+		    "chapter": "5",
+			"term": "Network diagram",
+			"pronun": "net-wurk dahy-uh-gram",
+			"soundfile": "",
+			"definition": "A diagram of the PERT/CPM network."
+        },
+		{
+		    "id": "19",
+		    "chapter": "5",
+			"term": "Optimistic estimate",
+			"pronun": "op-tuh-mis-tik es-tuh-meyt",
+			"soundfile": "",
+			"definition": "Is based on the assumption that everything is under control and that the activity will progress according to an ideal plan."
+        },
+		{
+		    "id": "20",
+		    "chapter": "5",
+			"term": "Path",
+			"pronun": "pahth",
+			"soundfile": "",
+			"definition": "A sequence of connected activities that extends from the starting node to the completion node."
+        },
+		{
+		    "id": "21",
+		    "chapter": "5",
+			"term": "Pert/CpM network",
+			"pronun": "purt/cee-pee-em net-wurk",
+			"soundfile": "",
+			"definition": "A network that consists of activities connected by arrows. Each activity is labeled by a number or a character and has a beginning, duration, and ending time."
+        },
+		{
+		    "id": "22",
+		    "chapter": "5",
+			"term": "Pessimistic estimate",
+			"pronun": "pes-uh-mis-tik es-tuh-meyt",
+			"soundfile": "",
+			"definition": "Is based on the assumption that whatever can go wrong will go wrong."
+        },
+		{
+		    "id": "23",
+		    "chapter": "5",
+			"term": "Priority list",
+			"pronun": "prahy-awr-i-tee list",
+			"soundfile": "",
+			"definition": "A list of prioritization of tasks."
+        },
+		{
+		    "id": "24",
+		    "chapter": "5",
+			"term": "Probability",
+			"pronun": "prob-uh-bil-i-tee",
+			"soundfile": "",
+			"definition": "The chance of task being completed."
+        },
+		{
+		    "id": "25",
+		    "chapter": "5",
+			"term": "Program Evaluation Review Technique (PERT)",
+			"pronun": "proh-gram ih-val-yoo-ey-shuh n ri-vyoo tek-neek",
+			"soundfile": "",
+			"definition": "An application of the CPM that shows the sequence and duration for each activity as a network and enables the project manager to determine which tasks may become bottlenecks."
+        },
+		{
+		    "id": "26",
+		    "chapter": "5",
+			"term": "Resource allocation graph",
+			"pronun": "ree-sawrs al-uh-key-shuh n graf",
+			"soundfile": "",
+			"definition": "The scheduling of available resources for use in a manner that is efficient and in accordance with the constraints of time and cost."
+        },
+		{
+		    "id": "27",
+		    "chapter": "5",
+			"term": "Resource smoothing",
+			"pronun": "ree-sawrs smooth-ing",
+			"soundfile": "",
+			"definition": "Leveling the use of resources throughout the project to avoid large spikes and valleys in re-source usage. The purpose of this action is to use resources with consistent efficiency."
+        },
+		{
+		    "id": "28",
+		    "chapter": "5",
+			"term": "Slack time",
+			"pronun": "slak tahym",
+			"soundfile": "",
+			"definition": "The difference between the latest start time and the earliest start time, or the difference between the latest finish time and the earliest finish time. Activities on  the critical path do not have slack."
+        },
+		{
+		    "id": "29",
+		    "chapter": "5",
+			"term": "Standard deviation formula",
+			"pronun": "stan-derd dee-vee-ey-shuh n fawr-myuh-luh",
+			"soundfile": "",
+			"definition": "A measure of how spread out numbers are."
+        },
+		{
+		    "id": "29",
+		    "chapter": "5",
+			"term": "Standard deviation formula",
+			"pronun": "stan-derd dee-vee-ey-shuh n fawr-myuh-luh",
+			"soundfile": "",
+			"definition": "A measure of how spread out numbers are."
+        },
+		{
+		    "id": "30",
+		    "chapter": "5",
+			"term": "Time management",
+			"pronun": "tahym man-ij-muh nt",
+			"soundfile": "",
+			"definition": "The anticipated planned activities but also to unexpected events, such as last minute changes, personnel issues, conflict resolution, and so on."
+        },
+		{
+		    "id": "31",
+		    "chapter": "5",
+			"term": "Variance",
+			"pronun": "vair-ee-uh ns",
+			"soundfile": "",
+			"definition": "The square of the standard deviation."
+        }
+    ]
+}
+
+

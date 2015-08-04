@@ -1,0 +1,745 @@
+{
+    "title": "IS 378 - Important Concepts",
+	"chapter": "1",
+    "author": "Shatilla Prayer",
+    "version": "1.0",
+    "practice_instructions": "Enter the definition to the term above. Click View Answer to view the term definition.",
+    "chapter1": [
+        {
+		    "id": "1",
+		    "chapter": "1",
+			"term": "Closing stage",
+			"pronun": "kloh-zing steyj",
+			"soundfile": "",
+			"definition": "The customer formally accepts the project deliverable, project-related contracts are terminated, project documents are archived, and project audits and other tasks are conducted to administratively close the project."
+        },
+		{
+		    "id": "2",
+		    "chapter": "1",
+			"term": "Codes of conduct",
+			"pronun": "kohds uhv kon-duhkt",
+			"soundfile": "",
+			"definition": "A set of behavioral rules intended to guide individuals in making decisions that comply with the ethical standards of a company, profession or organization."
+        },
+		{
+		    "id": "3",
+		    "chapter": "1",
+			"term": "Control phase",
+			"pronun": "kuh n-trohl feyz",
+			"soundfile": "",
+			"definition": "The product is delivered to the customer and any necessary testing, training, and integration is done during this stage. Project team members and other resources are released from the project."
+        },
+		{
+		    "id": "4",
+		    "chapter": "1",
+			"term": "Development stage",
+			"pronun": "dih-vel-uh p-muh nt steyj",
+			"soundfile": "",
+			"definition": "All physical and mental activities necessary to reach the point of delivery of the project are executed during this stage."
+        },
+	   {
+		    "id": "5",
+		    "chapter": "1",
+			"term": "Ethical characteristics",
+			"pronun": "eth-i-kuh l  kar-ik-tuh-ris-tik",
+			"soundfile": "",
+			"definition": "Respect for the individual, dignity, fairness, pursuit of truth, and helpfulness."
+        },
+		{
+		    "id": "6",
+		    "chapter": "1",
+			"term": "Executing phase",
+			"pronun": "ek-si-kyoot-ing feyz ",
+			"soundfile": "",
+			"definition": "All physical and mental activities necessary to reach the point of delivery of the project are executed during this stage."
+        },
+		{
+		    "id": "7",
+		    "chapter": "1",
+			"term": "Implementation stage",
+			"pronun": "im-pluh-muh n-tey-shuh n steyj",
+			"soundfile": "",
+			"definition": "Also know as the control phase, the product is delivered to the customer. All tests are carried out and instructions and manuals are prepared."
+        },
+		{
+		    "id": "8",
+		    "chapter": "1",
+			"term": "Initiation stage",
+			"pronun": "ih-nish-ee-ey-shuh n steyj",
+			"soundfile": "",
+			"definition": "The product is delivered to the customer and any necessary testing, training, and integration is done during this stage. Project team members and other resources are released from the project."
+        },
+		{
+		    "id": "9",
+		    "chapter": "1",
+			"term": "Planning stage",
+			"pronun": "plan-ing steyj",
+			"soundfile": "",
+			"definition": "The project scope, objectives, and activities are defined; team members and other resource needs are identified; communication modes are established; project costs and time requirements are estimated, work schedules are determined; quality control methods are established; and risk analysis are conducted by the project manager."
+        },
+		{
+		    "id": "10",
+		    "chapter": "1",
+			"term": "Project",
+			"pronun": "proj-ekt",
+			"soundfile": "",
+			"definition": "A non-routine, one-time job limited by time and budget to meet a specified need of the customer."
+        },
+		{
+		    "id": "11",
+		    "chapter": "1",
+			"term": "Project audit",
+			"pronun": "proj-ekt aw-dit",
+			"soundfile": "",
+			"definition": "The process of formalizing and documenting the lessons learned and the experience gained during the project. The goal of the project audit is to increase organizational learning by reviewing the successes and failures of the project and suggesting ways to improve future performance. The project audit is not intended to promote finger pointing. Periodic audits conducted during the project can assist in monitoring progress and detecting problems."
+        },
+		{
+		    "id": "12",
+		    "chapter": "1",
+			"term": "Project commitee",
+			"pronun": "proj-ekt kuh-mit-ee ",
+			"soundfile": "",
+			"definition": "A committee formed to evaluate projects and recommend project proposals."
+        },
+		{
+		    "id": "13",
+		    "chapter": "1",
+			"term": "Project life cycle",
+			"pronun": "proj-ekt lahyf sahy-kuh l ",
+			"soundfile": "",
+			"definition": "The five distinct stages a project progresses through before it is complete. These stages involve initiating, planning, developing, implementing, and closing the project. Progress through these stages may be linear or may require iterations and jumps between stages. "
+        },
+		{
+		    "id": "14",
+		    "chapter": "1",
+			"term": "Project management",
+			"pronun": "proj-ekt man-ij-muh nt",
+			"soundfile": "",
+			"definition": "The application of knowledge, skills, tools, and techniques to project activities to meet project requirements."
+        },
+		{
+		    "id": "15",
+		    "chapter": "1",
+			"term": "Project scope",
+			"pronun": "proj-ekt skohp",
+			"soundfile": "",
+			"definition": "A definition of the project boundaries. The scope is intended to limit the size of the project to a finite and defined set of objectives, deliverables, milestones, and resources. The scope determines where the project is going."
+        },
+		{
+		    "id": "16",
+		    "chapter": "1",
+			"term": "Role of project manager",
+			"pronun": "rohl uhv proj-ekt man-i-jer",
+			"soundfile": "",
+			"definition": "The manager of the project and will be responsible for carrying out the project through the development life cycle and delivering the final product."
+        },
+		{
+		    "id": "17",
+		    "chapter": "1",
+			"term": "Scope creep",
+			"pronun": "skohp kreep",
+			"soundfile": "",
+			"definition": "May occur during the execution of the project as stakeholders realize new or changing wants and needs and request modifications to the project requirements. These requirement modifications can cause the project scope to creep past its original boundaries and increase the time and resources required to successfully complete the project."
+        },
+		{
+		    "id": "18",
+		    "chapter": "1",
+			"term": "Sponsors",
+			"pronun": "spon-sers",
+			"soundfile": "",
+			"definition": "The owners of the project and the chief liaisons between the project team and the executive management. Sponsors drive the project by gaining and maintaining management support, facilitation, access to resources, mediating conflicts, and keeping the project in line with company objectives."
+        },
+		{
+		    "id": "19",
+		    "chapter": "1",
+			"term": "Stakeholder analysis",
+			"pronun": "steyk-hohl-der  uh-nal-uh-sis",
+			"soundfile": "",
+			"definition": "Methods aimed at prioritizing stakeholders’ needs, determining risks associated with stakeholders, and making explicit the claims of all stakeholders."
+        },
+		{
+		    "id": "20",
+		    "chapter": "1",
+			"term": "Stakeholder map",
+			"pronun": "steyk-hohl-der map",
+			"soundfile": "",
+			"definition": "A method of stakeholder analysis in which stakeholders are listed in tables or in interconnected circles based upon their individual power/influence and interest/attitude toward the project."
+        },
+		{
+		    "id": "21",
+		    "chapter": "1",
+			"term": "Stakeholders",
+			"pronun": "steyk-hohl-der",
+			"soundfile": "",
+			"definition": "Include all individuals who have interest in the project. These individuals may be internal or external to the project and company. Top management, employees, project team members, suppliers, and customers are all examples of stakeholders."
+        },
+		{
+		    "id": "22",
+		    "chapter": "1",
+			"term": "Triple constraints",
+			"pronun": "trip-uh l  kuh n-streynts",
+			"soundfile": "",
+			"definition": "Scope, time, and cost. These constraints directly and proportionally affect each other like three sides of a triangle."
+        },
+		{
+		    "id": "23",
+		    "chapter": "1",
+			"term": "Three aspects of project management",
+			"pronun": "three as-pekts uhv proj-ekt man-ij-muh nt",
+			"soundfile": "",
+			"definition": "First, to study and understand the job of project management. Second, to study and understand what makes a person successful as a project manager, and Third, to study and understand the methods, tools, and processes necessary for successful project management."
+        }
+    ],
+	 "chapter2": [
+        {
+		    "id": "1",
+		    "chapter": "2",
+			"term": "Business process re-engineering",
+			"pronun": "biz-nis pros-es ree-en-juh-neer-ing",
+			"soundfile": "",
+			"definition": "Involves a re-engineering of business processes based on an analysis of all aspects of the company. The changes in the company resulting from BPR are often quite extensive."
+        },
+		{
+		    "id": "2",
+		    "chapter": "2",
+			"term": "Change management",
+			"pronun": "cheynj man-ij-muh nt",
+			"soundfile": "",
+			"definition": "Responsibilities, processes, and requirements product development and project management change over time and in response to strategic that refers to the maturity of the organization initiatives. Mitigating the risks associated with change requires a strategic plan for handling change, negotiation skills, and the communication of timely, accurate, and relevant information to (and from) project stakeholders. Inadequate attention to change management is the are based on previous experience. A case reveals primary reason for project failure."
+        },
+		{
+		    "id": "3",
+		    "chapter": "2",
+			"term": "Expectation gap",
+			"pronun": "ek-spek-tey-shuh n  gap",
+			"soundfile": "",
+			"definition": "The difference between expected and actual benefits."
+        },
+		{
+		    "id": "4",
+		    "chapter": "2",
+			"term": "Force field analysis",
+			"pronun": "fohrs feeld uh-nal-uh-sis",
+			"soundfile": "",
+			"definition": "A change management approach involving the identification of the forces working for and against the success of the change through analyses of the point of view of stakeholders, resources, time, external factors, and corporate culture."
+        },
+		{
+		    "id": "5",
+		    "chapter": "2",
+			"term": "Four types of organizations",
+			"pronun": "fohr tahyps uhv  awr-guh-nuh-zey-shuh ns",
+			"soundfile": "",
+			"definition": "See definition"
+        },
+		{
+		    "id": "6",
+		    "chapter": "2",
+			"term": "Goals and objectives",
+			"pronun": "gohl  uh nd  uh b-jek-tivs",
+			"soundfile": "",
+			"definition": "Clearly defined, measurable, and achievable statements of what specifically needs to be done in order to accomplish the organization’s mission. Conceptualizations of the mission statement."
+        },
+		{
+		    "id": "7",
+		    "chapter": "2",
+			"term": "Governance",
+			"pronun": "guhv-er-nuh ns",
+			"soundfile": "",
+			"definition": "The patterns of authority for key project activities in firms as well as in project management."
+        },
+		{
+		    "id": "8",
+		    "chapter": "2",
+			"term": "Incremental change",
+			"pronun": "in-kruh-men-tl  cheynj",
+			"soundfile": "",
+			"definition": "A gradual change that allows time for training, adaption, and consolidation."
+        },
+		{
+		    "id": "9",
+		    "chapter": "2",
+			"term": "Long-term planning",
+			"pronun": "lawng-turm  plan-ing",
+			"soundfile": "",
+			"definition": "A planning stage involving the consideration of project objectives and the creation of a mission statement for the project group that is reflective of the organization’s mission statement. Project details are kept minimal."
+        },
+		{
+		    "id": "10",
+		    "chapter": "2",
+			"term": "Management support",
+			"pronun": "man-ij-muh nt  suh-pawrt",
+			"soundfile": "",
+			"definition": "The recognition that the project is aligned with organizational goals and objectives."
+        },
+		{
+		    "id": "11",
+		    "chapter": "2",
+			"term": "Medium-term planning",
+			"pronun": "mee-dee-uh m turm plan-ing",
+			"soundfile": "",
+			"definition": "A planning stage involving the detailing of potential projects that meet the long-term needs of the organization. Projects are planned and prioritized based on the overall strategic objectives of the organization."
+        },
+		{
+		    "id": "12",
+		    "chapter": "2",
+			"term": "Mission statement",
+			"pronun": "mish-uh n  steyt-muh nt",
+			"soundfile": "",
+			"definition": "A widely communicated statement expressed in broad terms that defines the purpose of the organization, guides decision making, and sets the direction for the entire organization."
+        },
+		{
+		    "id": "13",
+		    "chapter": "2",
+			"term": "Operational strategies",
+			"pronun": "op-uh-rey-shuh-nl  strat-i-jees",
+			"soundfile": "",
+			"definition": "Facilitate the implementation of goals and objectives. Projects are implementation tools for strategies."
+        },
+		{
+		    "id": "14",
+		    "chapter": "2",
+			"term": "Organic organizations",
+			"pronun": "awr-gan-ik  awr-guh-nuh-zey-shuh ns",
+			"soundfile": "",
+			"definition": "Are organizations in which change is the norm and eagerly embraced."
+        },
+		{
+		    "id": "15",
+		    "chapter": "2",
+			"term": "Planning approaches",
+			"pronun": "plan-ing  uh-prohch es",
+			"soundfile": "",
+			"definition": "Designed to counteract the possibility that projects will be implemented in a disjointed fashion, disconnected from other on-going projects in a way that it may not serve organizational goals and objectives."
+        },
+		{
+		    "id": "16",
+		    "chapter": "2",
+			"term": "Short-term planning",
+			"pronun": "shawrt-turm plan-ing",
+			"soundfile": "",
+			"definition": "Covers the next 12 months of operations with a focus on providing additional details on the control measures, resources required, and specifics for each stage in the project life cycle."
+        },
+		{
+		    "id": "17",
+		    "chapter": "2",
+			"term": "Strategic planning",
+			"pronun": "struh-tee-jik plan-ing",
+			"soundfile": "",
+			"definition": "Requires a clear and honest understanding of what the company is, what it is about, and where it is at. A strategic plan sets a road map that suggests where the company wants to be and how it can get there. Projects should be aligned with the company’s strategic goals."
+        },
+		{
+		    "id": "18",
+		    "chapter": "2",
+			"term": "Transformational change",
+			"pronun": "trans-fer-mey-shuh n  cheynj ",
+			"soundfile": "",
+			"definition": "A quick and dramatic change that may be met with greater resistance because of these qualities."
+        }
+    ],
+	 "chapter3": [
+        {
+		    "id": "1",
+		    "chapter": "3",
+			"term": "Bottom-up approach",
+			"pronun": "bot-uh m-uhp  uh-prohch",
+			"soundfile": "",
+			"definition": "Team members, and sometimes clients, with ideas about activities that are necessary to complete the project will prepare brief descriptions of all possible work units."
+        },
+		{
+		    "id": "2",
+		    "chapter": "3",
+			"term": "Control point",
+			"pronun": "kuh n-trohl point",
+			"soundfile": "",
+			"definition": "The product is delivered to the customer and any necessary testing, training, and integration is done during this stage. Project team members and other resources are released from the project."
+        },
+		{
+		    "id": "3",
+		    "chapter": "3",
+			"term": "Deliverables",
+			"pronun": "dih-liv-er-uh-buh ls",
+			"soundfile": "",
+			"definition": "Are tangible or intangible products of the project that will be delivered to the client. Every deliverable must have a time, cost, and specification associated with it."
+        },
+		{
+		    "id": "4",
+		    "chapter": "3",
+			"term": "Exemption clauses",
+			"pronun": "ig-zemp-shuh n  klawzes",
+			"soundfile": "",
+			"definition": "Are additional statements added to the project scope to limit the project manager’s responsibilities to within reasonable boundaries. These exclusion or exemption clauses also help the customer develop realistic expectations for the project. These clauses are similar to disclaimers that communicate to the customer what should or should not be expected from the project."
+        },
+		{
+		    "id": "5",
+		    "chapter": "3",
+			"term": "Master plan",
+			"pronun": "mas-ter-plan",
+			"soundfile": "",
+			"definition": "Ensuring the overall program is coordinated and the overall program manager has an overview of each project and their project managers."
+        },
+		{
+		    "id": "6",
+		    "chapter": "3",
+			"term": "Measurable objectives",
+			"pronun": "mezh-er-uh-buh l uh b-jek-tiv",
+			"soundfile": "",
+			"definition": "The scope statement is the blueprint for the work breakdown structure. This process will require back and forth communication until the scope statement is finalized."
+        },
+		{
+		    "id": "7",
+		    "chapter": "3",
+			"term": "Milestone",
+			"pronun": "mahyl-stohn",
+			"soundfile": "",
+			"definition": "Are major events in the project development life cycle that occur when a significant piece of work has been accomplished. They serve as aids to the project manager in determining whether necessary progress is being made to complete the project on schedule."
+        },
+		{
+		    "id": "8",
+		    "chapter": "3",
+			"term": "Mind mapping",
+			"pronun": "mahynd map-ing",
+			"soundfile": "",
+			"definition": "Developed by Tony Buzan, mind maps provide a holistic method for note-taking and memory recall and assist in the identification of relationships between concepts."
+        },
+		{
+		    "id": "9",
+		    "chapter": "3",
+			"term": "Organizational chart",
+			"pronun": "awr-guh-nuh-zey-shuh n ul chahrt",
+			"soundfile": "",
+			"definition": "Are hierarchal charts that detail the number of divisions or departments that exist in an organization, the hierarchical relationship between those divisions (divisions and subdivisions), the title and responsibility of each division, the person in charge of each division, and the size of each division (number of employees)."
+        },
+		{
+		    "id": "10",
+		    "chapter": "3",
+			"term": "Program",
+			"pronun": "proh-gram",
+			"soundfile": "",
+			"definition": "Are like projects but tend to be much more long-term (a project might take a few months, whereas the whole of a program may take five years or more to implement), and are large (consisting of the scale of a number of projects) and very complex (because the projects need to integrate)."
+        },
+		{
+		    "id": "11",
+		    "chapter": "3",
+			"term": "Project charter",
+			"pronun": "proj-ekt chahr-ter",
+			"soundfile": "",
+			"definition": "Are used as the basis for the project scope statement. A project charter includes the title of the project, the names of the project sponsors and project manager, the project start and end dates, and the objectives, costs, and resources needed for the project."
+        },
+		{
+		    "id": "12",
+		    "chapter": "3",
+			"term": "Project plan",
+			"pronun": "proj-ekt plan",
+			"soundfile": "",
+			"definition": "A living document that must be adhered to by all stakeholders, especially the project manager and team members."
+        },
+		{
+		    "id": "13",
+		    "chapter": "3",
+			"term": "Project scope",
+			"pronun": "proj-ekt skohp",
+			"soundfile": "",
+			"definition": "A definition of the project boundaries. The scope is intended to limit the size of the project to a finite and defined set of objectives, deliverables, milestones, and resources. The scope determines where the project is going."
+        },
+		{
+		    "id": "14",
+		    "chapter": "3",
+			"term": "Project scope statement",
+			"pronun": "proj-ekt skohp steyt-muh nt",
+			"soundfile": "",
+			"definition": "A document that specifies project outcomes as they relate to client expectations and serves as the source for developing the project plan. The scope clearly defines project goals that are realistic, obtainable, and measurable. It makes clear what is expected, when it is expected, and at what cost and specifies the deliverables, milestones, and resources needed."
+        },
+		{
+		    "id": "15",
+		    "chapter": "3",
+			"term": "Requirements definition",
+			"pronun": "ri-kwahyuh r-muh nts  def-uh-nish-uh n",
+			"soundfile": "",
+			"definition": "Are a balance between everything that relevant stakeholders want from a project and what can reasonably be delivered based on cost, time, and other resource constraints. Requirements will often change throughout the course of a project, so project managers should be prepared to be flexible and manage requirements changes efficiently."
+        },
+		{
+		    "id": "16",
+		    "chapter": "3",
+			"term": "Resources",
+			"pronun": "ree-sawrs-es",
+			"soundfile": "",
+			"definition": "Consist of three main components: human resources, facilities and equipment, and organizational resources."
+        },
+		{
+		    "id": "17",
+		    "chapter": "3",
+			"term": "Scope statement",
+			"pronun": "skohp steyt-muh nt",
+			"soundfile": "",
+			"definition": "A document that specifies project outcomes as they relate to client expectations and serves as the source for developing the project plan. The scope clearly defines project goals that are realistic, obtainable, and measurable. It makes clear what is expected, when it is expected, and at what cost and specifies the deliverables, milestones, and resources needed."
+        },
+		{
+		    "id": "18",
+		    "chapter": "3",
+			"term": "Structured walkthrough",
+			"pronun": "struhk-cherd wawk-throo",
+			"soundfile": "",
+			"definition": "A technique that requires project team members to participate in formal walkthroughs of the project. These walkthroughs assist with detecting potential problems with the project as early as possible and increasing the sense of responsibility and task ownership in the team members."
+        },
+		{
+		    "id": "19",
+		    "chapter": "3",
+			"term": "Top-down approach",
+			"pronun": "top-doun uh-prohch",
+			"soundfile": "",
+			"definition": "This approach progressively breaks down project activities into smaller and more detailed units until it reaches the level of work units. This approach is effective when the project manager can visualize the big picture and is able to identify key components to start the breakdown process."
+        },
+		{
+		    "id": "20",
+		    "chapter": "3",
+			"term": "WBS coding scheme",
+			"pronun": "WBS koh-ding skeem",
+			"soundfile": "",
+			"definition": "A method for displaying the hierarchy of a WBS in a numerically prefaced outline form. Decimal points are used to separate the levels for activities, tasks, and work units within the overall WBS hierarchy. For example, item 3.8.6 is the sixth item listed at the third level for the eighth item specified at the second level of the third first level item."
+        },
+		{
+		    "id": "21",
+		    "chapter": "3",
+			"term": "Work breakdown structure (WBS)",
+			"pronun": "wurk breyk-doun struhk-cher",
+			"soundfile": "",
+			"definition": "The WBS breaks down the entire project into manageable pieces. Each piece is a work unit assigned to an individual or individuals to be done within the allocated time and budget. It provides a hierarchal overview of the project and is used to monitor and evaluate cost, time, and quality."
+        },
+		{
+		    "id": "22",
+		    "chapter": "3",
+			"term": "Work package",
+			"pronun": "wurk pak-ij",
+			"soundfile": "",
+			"definition": "A group of related tasks at the same level in the WBS."
+        },
+		{
+		    "id": "23",
+		    "chapter": "3",
+			"term": "Work unit",
+			"pronun": "wurk yoo-nit",
+			"soundfile": "",
+			"definition": "Are defined by duration, required resources, and the person responsible for the work. Each project phase is divided into work units that are linked to a single deliverable. A work unit is the lowest level in the WBS and should be designed to be easy to assign to an individual and to evaluate."
+        }
+    ],
+	"chapter4": [
+        {
+		    "id": "1",
+		    "chapter": "4",
+			"term": "Best case scenario",
+			"pronun": "best-keys si-nair-ee-oh",
+			"soundfile": "",
+			"definition": "Represents the best possible estimate of the time and cost needed to complete a work unit. Depending on the priorities of the project, this may represent the shortest time, the lowest costs, or a combination of both."
+        },
+		{
+		    "id": "2",
+		    "chapter": "4",
+			"term": "Bottom-up approach",
+			"pronun": "bot-uh m-uhp uh-prohch",
+			"soundfile": "",
+			"definition": "Team members, and sometimes clients, with ideas about activities that are necessary to complete the project will prepare brief descriptions of all possible work units."
+        },
+		{
+		    "id": "3",
+		    "chapter": "4",
+			"term": "Business intelligence software",
+			"pronun": "biz-nis in-tel-i-juh ns sawft-wair",
+			"soundfile": "",
+			"definition": "Decision making tools that use predictive models and consider uncertainties and constraints in their solutions. These tools are particularly useful in situations where there is uncertainty and the need to forecast."
+        },
+		{
+		    "id": "4",
+		    "chapter": "4",
+			"term": "Collaboration suites",
+			"pronun": "kuh-lab-uh-rey-shuh n sweets",
+			"soundfile": "",
+			"definition": "Computer software that supports group or team decision making through shared documentation, storage, access to information, and communication."
+        },
+		{
+		    "id": "5",
+		    "chapter": "4",
+			"term": "Content management systems",
+			"pronun": "kon-tent man-ij-muh nt sis-tuh ms",
+			"soundfile": "",
+			"definition": "Computer systems that enable the storage, modification, and sharing of documents. Wikis are an example of a simple CMS."
+        },
+		{
+		    "id": "6",
+		    "chapter": "4",
+			"term": "Contingency funds",
+			"pronun": "kuh n-tin-juh n-see fuhnds",
+			"soundfile": "",
+			"definition": "Funds set aside for use in case of extraordinary or extreme situations that may delay or derail a project unless additional funds are allocated to the project. These funds are not usually directly accessible to the project manager and must be released to the project by management or a project committee."
+        },
+		{
+		    "id": "7",
+		    "chapter": "4",
+			"term": "Contingency plan",
+			"pronun": "kuh n-tin-juh n-see plan",
+			"soundfile": "",
+			"definition": "An appropriate way to prepare for extreme situations."
+        },
+		{
+		    "id": "8",
+		    "chapter": "4",
+			"term": "Contingency resources",
+			"pronun": "kuh n-tin-juh n-see ree-sawrs-es",
+			"soundfile": "",
+			"definition": "The smaller the variance for a set of estimates is, the more specific the results."
+        },
+		{
+		    "id": "9",
+		    "chapter": "4",
+			"term": "Critical path Method (CpM)",
+			"pronun": "krit-i-kuh l path meth-uh d",
+			"soundfile": "",
+			"definition": "A time estimation technique that uses earliest start, earliest finish, latest start, and latest finish to determine the critical path."
+        },
+		{
+		    "id": "10",
+		    "chapter": "4",
+			"term": "Direct costs",
+			"pronun": "dih-rekt kawst",
+			"soundfile": "",
+			"definition": "Are costs easily associated with a work unit. A portion of the project manager’s time is also directly associated with the work unit and is a direct cost."
+        },
+		{
+		    "id": "11",
+		    "chapter": "4",
+			"term": "Direct overhead costs",
+			"pronun": "dih-rekt oh-ver-hed kawst",
+			"soundfile": "",
+			"definition": "These costs are incurred for the entire duration of the project and are prorated to individual work units. Examples include management costs, facility expenses, and rental agreements."
+        },
+		{
+		    "id": "12",
+		    "chapter": "4",
+			"term": "Discount factor",
+			"pronun": "dis-kount fak-ter",
+			"soundfile": "",
+			"definition": "The present value of one dollar."
+        },
+		{
+		    "id": "13",
+		    "chapter": "4",
+			"term": "Documentation",
+			"pronun": "dok-yuh-men-tey-shuh n",
+			"soundfile": "",
+			"definition": "Used as a source for obtaining estimates, especially in environments where project development activities are more formalized and projects are administratively closed."
+        },
+		{
+		    "id": "14",
+		    "chapter": "4",
+			"term": "Experience",
+			"pronun": "ik-speer-ee-uh ns",
+			"soundfile": "",
+			"definition": "A valuable source for obtaining estimates. It incorporates different dimensions, such as the culture of the workplace, the pool of talent, the history of inter-organizational cooperation, and human resource policies."
+        },
+		{
+		    "id": "15",
+		    "chapter": "4",
+			"term": "Expert opinion",
+			"pronun": "ek-spurt uh-pin-yuh n",
+			"soundfile": "",
+			"definition": "A widely-used source for obtaining cost, time, and other estimates."
+        },
+		{
+		    "id": "16",
+		    "chapter": "4",
+			"term": "Groupware",
+			"pronun": "groop-wair",
+			"soundfile": "",
+			"definition": "Computer software that supports group or team decision making through shared documentation, storage, access to information, and communication."
+        },
+		{
+		    "id": "17",
+		    "chapter": "4",
+			"term": "Indirect costs",
+			"pronun": "in-duh-rekt kawst",
+			"soundfile": "",
+			"definition": "These costs are not easily associated with a work unit or project. These costs include overall organizational costs that are incurred by all activities of the organization. These costs are often prorated and subjectively allocated."
+        },
+		{
+		    "id": "18",
+		    "chapter": "4",
+			"term": "Intangible costs and benefits",
+			"pronun": "iin-tan-juh-buh l kawst and ben-uh-fit",
+			"soundfile": "",
+			"definition": "Are costs and benefits that are not easily quantified or assigned a monetary value. Examples are gains or losses in knowledge, control, security, and satisfaction."
+        },
+		{
+		    "id": "19",
+		    "chapter": "4",
+			"term": "Learning curve",
+			"pronun": "lur-ning kurv",
+			"soundfile": "",
+			"definition": "The learning ability of the individual and the nature of the task."
+        },
+		{
+		    "id": "20",
+		    "chapter": "4",
+			"term": "Most probable scenario",
+			"pronun": "mohst prob-uh-buh l si-nair-ee-oh",
+			"soundfile": "",
+			"definition": "Represents the most likely time and cost needed to complete a work unit."
+        },
+		{
+		    "id": "21",
+		    "chapter": "4",
+			"term": "Multiple estimates",
+			"pronun": "muhl-tuh-puh l es-tuh-mit-s",
+			"soundfile": "",
+			"definition": "Estimates from people who are the most knowledgeable about a task."
+        },
+		{
+		    "id": "22",
+		    "chapter": "4",
+			"term": "Net present value (NpV)",
+			"pronun": "net prez-uh nt val-yoo",
+			"soundfile": "",
+			"definition": "Is used to evaluate the expected monetary gain or loss of a project. It is based on the calculation of expected cash flow. This approach uses a rate of interest to calculate the present value of the future cost and benefit for a project. The rate of interest used is based on the cost of capital."
+        },
+		{
+		    "id": "23",
+		    "chapter": "4",
+			"term": "Normal conditions",
+			"pronun": "nawr-muh l kuh n-dish-uh ns",
+			"soundfile": "",
+			"definition": "Are conditions free from extreme case assumptions. An example would be a using the number of hours worked in a normal (non-overtime) workweek to calculate work unit time estimates."
+        },
+		{
+		    "id": "24",
+		    "chapter": "4",
+			"term": "Payback analysis",
+			"pronun": "pey-bak uh-nal-uh-sis",
+			"soundfile": "",
+			"definition": "Payback analysis is used to determine how long it will take before the investment in a project results in positive cash flow. Payback occurs when the cumulative benefits are greater than cumulative costs."
+        },
+		{
+		    "id": "25",
+		    "chapter": "4",
+			"term": "Phase estimating",
+			"pronun": "feyz es-tuh-meyt",
+			"soundfile": "",
+			"definition": "An estimating method that assumes that the cost and time for subsequent phases depend upon the outcomes of earlier phases. Because of this, detailed estimates are only made for one or two cycles at a given time as the project progresses, and only rough estimates are generated for subsequent cycles."
+        },
+		{
+		    "id": "26",
+		    "chapter": "4",
+			"term": "Program evaluation review technique (PERT)",
+			"pronun": "proh-gram ih-val-yoo-ey-shuh n ri-vyoo tek-neek",
+			"soundfile": "",
+			"definition": "An application of the CPM that shows the sequence and duration for each activity as a network and enables the project manager to determine which tasks may become bottlenecks."
+        },
+		{
+		    "id": "26",
+		    "chapter": "4",
+			"term": "Program evaluation review technique (PERT)",
+			"pronun": "proh-gram ih-val-yoo-ey-shuh n ri-vyoo tek-neek",
+			"soundfile": "",
+			"definition": "An application of the CPM that shows the sequence and duration for each activity as a network and enables the project manager to determine which tasks may become bottlenecks."
+        }
+    ]
+}
+
+

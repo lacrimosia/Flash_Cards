@@ -1,0 +1,31 @@
+ <div class="col-md-3 menu side_menu">
+<div side-menu></div><!--end menu-->
+    </div>
+					   <div class="col-md-9 core">
+							<top-nav></top-nav>
+								<div class="row">
+								
+								      <div class="col-md-12" ng-controller="chapters">
+									       <div class="row">
+										   <div class="col-sm-12">
+											<h1 class="text-center the_term">Select a Chapter</h1>
+										   </div>
+                                              <div class="col-sm-6">
+                                                      <ul>
+														<li ng-repeat="c in chapters | limitTo: 7" role="button" class="btn btn-default btn-lg chaps center-block clicks" ng-click="go($index+1);"><i class="fa fa-book"></i> Chapter {{ c }}</li>
+													  </ul>
+                                             </div>
+                                             <div class="col-sm-6">
+                                                       <ul>
+														<li ng-repeat="c in chapters | limitTo: -7" role="button" class="btn btn-default btn-lg chaps center-block clicks" ng-click="go($index+1)"><i class="fa fa-book"></i> Chapter {{ c }}</li>
+													  </ul>
+                                               </div>
+                                            </div>
+										<div class="clearfix"></div>
+										
+										<!--end answer area-->
+										
+									</div><!--end 12 text area-->
+									
+								</div><!--end second row-->
+				   </div>

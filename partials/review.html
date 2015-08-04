@@ -1,0 +1,37 @@
+<div class="col-md-3 menu side_menu">
+<div side-menu></div><!--end menu-->
+    </div><!--end menu-->
+	
+	
+
+				   <div class="col-md-9 core">
+								<div class="row">
+								<top-nav></top-nav>
+								    <div class="col-md-12"><h1 class="text-center the_term">{{ term }}</h1></div>
+								<div class="clearfix"></div>
+								      <div class="col-md-12">
+			                                  <div class="well">
+											  <div class="row">
+												 <div class="col-md-12">
+										              <p class="text-center pronuc">Pronunciation</p>
+									            </div><!--end 12 pronunciation-->
+												
+												<div class="col-md-5">
+										<img src="images/audio.png" class="pull-right"/> 
+									</div><!--end 6-->
+									<div class="col-md-7">
+										<h1 class="pronuc_word">{{ PronunFinder(term, chapters) }}</h1>
+									</div><!--end 6-->
+									<hr/>
+									<div class="col-md-12">
+										<h4>Definition:</h4>
+										<div class="well answersafter">
+											{{ defFinder(term, chapters) }}
+										</div>
+									</div><!--end definition-->
+												</div><!--end row-->
+											  </div>
+		                              </div><!--end col 12-->	
+								</div><!--end second row-->
+							<bottom-nav></bottom-nav>
+				   </div>

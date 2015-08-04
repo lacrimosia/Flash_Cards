@@ -1,0 +1,227 @@
+{
+    "title": "IS 378 - Important Concepts",
+	"chapter": "4",
+    "author": "Shatilla Prayer",
+    "version": "1.0",
+    "practice_instructions": "Enter the definition to the term above. Click View Answer to view the term definition.",
+    "chapter": [
+        {
+		    "id": "1",
+		    "chapter": "4",
+			"term": "Best case scenario",
+			"pronun": "best-keys si-nair-ee-oh",
+			"soundfile": "",
+			"definition": "Represents the best possible estimate of the time and cost needed to complete a work unit. Depending on the priorities of the project, this may represent the shortest time, the lowest costs, or a combination of both."
+        },
+		{
+		    "id": "2",
+		    "chapter": "4",
+			"term": "Bottom-up approach",
+			"pronun": "bot-uh m-uhp uh-prohch",
+			"soundfile": "",
+			"definition": "Team members, and sometimes clients, with ideas about activities that are necessary to complete the project will prepare brief descriptions of all possible work units."
+        },
+		{
+		    "id": "3",
+		    "chapter": "4",
+			"term": "Business intelligence software",
+			"pronun": "biz-nis in-tel-i-juh ns sawft-wair",
+			"soundfile": "",
+			"definition": "Decision making tools that use predictive models and consider uncertainties and constraints in their solutions. These tools are particularly useful in situations where there is uncertainty and the need to forecast."
+        },
+		{
+		    "id": "4",
+		    "chapter": "4",
+			"term": "Collaboration suites",
+			"pronun": "kuh-lab-uh-rey-shuh n sweets",
+			"soundfile": "",
+			"definition": "Computer software that supports group or team decision making through shared documentation, storage, access to information, and communication."
+        },
+		{
+		    "id": "5",
+		    "chapter": "4",
+			"term": "Content management systems",
+			"pronun": "kon-tent man-ij-muh nt sis-tuh ms",
+			"soundfile": "",
+			"definition": "Computer systems that enable the storage, modification, and sharing of documents. Wikis are an example of a simple CMS."
+        },
+		{
+		    "id": "6",
+		    "chapter": "4",
+			"term": "Contingency funds",
+			"pronun": "kuh n-tin-juh n-see fuhnds",
+			"soundfile": "",
+			"definition": "Funds set aside for use in case of extraordinary or extreme situations that may delay or derail a project unless additional funds are allocated to the project. These funds are not usually directly accessible to the project manager and must be released to the project by management or a project committee."
+        },
+		{
+		    "id": "7",
+		    "chapter": "4",
+			"term": "Contingency plan",
+			"pronun": "kuh n-tin-juh n-see plan",
+			"soundfile": "",
+			"definition": "An appropriate way to prepare for extreme situations."
+        },
+		{
+		    "id": "8",
+		    "chapter": "4",
+			"term": "Contingency resources",
+			"pronun": "kuh n-tin-juh n-see ree-sawrs-es",
+			"soundfile": "",
+			"definition": "The smaller the variance for a set of estimates is, the more specific the results."
+        },
+		{
+		    "id": "9",
+		    "chapter": "4",
+			"term": "Critical path Method (CpM)",
+			"pronun": "krit-i-kuh l path meth-uh d",
+			"soundfile": "",
+			"definition": "A time estimation technique that uses earliest start, earliest finish, latest start, and latest finish to determine the critical path."
+        },
+		{
+		    "id": "10",
+		    "chapter": "4",
+			"term": "Direct costs",
+			"pronun": "dih-rekt kawst",
+			"soundfile": "",
+			"definition": "Are costs easily associated with a work unit. A portion of the project manager’s time is also directly associated with the work unit and is a direct cost."
+        },
+		{
+		    "id": "11",
+		    "chapter": "4",
+			"term": "Direct overhead costs",
+			"pronun": "dih-rekt oh-ver-hed kawst",
+			"soundfile": "",
+			"definition": "These costs are incurred for the entire duration of the project and are prorated to individual work units. Examples include management costs, facility expenses, and rental agreements."
+        },
+		{
+		    "id": "12",
+		    "chapter": "4",
+			"term": "Discount factor",
+			"pronun": "dis-kount fak-ter",
+			"soundfile": "",
+			"definition": "The present value of one dollar."
+        },
+		{
+		    "id": "13",
+		    "chapter": "4",
+			"term": "Documentation",
+			"pronun": "dok-yuh-men-tey-shuh n",
+			"soundfile": "",
+			"definition": "Used as a source for obtaining estimates, especially in environments where project development activities are more formalized and projects are administratively closed."
+        },
+		{
+		    "id": "14",
+		    "chapter": "4",
+			"term": "Experience",
+			"pronun": "ik-speer-ee-uh ns",
+			"soundfile": "",
+			"definition": "A valuable source for obtaining estimates. It incorporates different dimensions, such as the culture of the workplace, the pool of talent, the history of inter-organizational cooperation, and human resource policies."
+        },
+		{
+		    "id": "15",
+		    "chapter": "4",
+			"term": "Expert opinion",
+			"pronun": "ek-spurt uh-pin-yuh n",
+			"soundfile": "",
+			"definition": "A widely-used source for obtaining cost, time, and other estimates."
+        },
+		{
+		    "id": "16",
+		    "chapter": "4",
+			"term": "Groupware",
+			"pronun": "groop-wair",
+			"soundfile": "",
+			"definition": "Computer software that supports group or team decision making through shared documentation, storage, access to information, and communication."
+        },
+		{
+		    "id": "17",
+		    "chapter": "4",
+			"term": "Indirect costs",
+			"pronun": "in-duh-rekt kawst",
+			"soundfile": "",
+			"definition": "These costs are not easily associated with a work unit or project. These costs include overall organizational costs that are incurred by all activities of the organization. These costs are often prorated and subjectively allocated."
+        },
+		{
+		    "id": "18",
+		    "chapter": "4",
+			"term": "Intangible costs and benefits",
+			"pronun": "iin-tan-juh-buh l kawst and ben-uh-fit",
+			"soundfile": "",
+			"definition": "Are costs and benefits that are not easily quantified or assigned a monetary value. Examples are gains or losses in knowledge, control, security, and satisfaction."
+        },
+		{
+		    "id": "19",
+		    "chapter": "4",
+			"term": "Learning curve",
+			"pronun": "lur-ning kurv",
+			"soundfile": "",
+			"definition": "The learning ability of the individual and the nature of the task."
+        },
+		{
+		    "id": "20",
+		    "chapter": "4",
+			"term": "Most probable scenario",
+			"pronun": "mohst prob-uh-buh l si-nair-ee-oh",
+			"soundfile": "",
+			"definition": "Represents the most likely time and cost needed to complete a work unit."
+        },
+		{
+		    "id": "21",
+		    "chapter": "4",
+			"term": "Multiple estimates",
+			"pronun": "muhl-tuh-puh l es-tuh-mit-s",
+			"soundfile": "",
+			"definition": "Estimates from people who are the most knowledgeable about a task."
+        },
+		{
+		    "id": "22",
+		    "chapter": "4",
+			"term": "Net present value (NpV)",
+			"pronun": "net prez-uh nt val-yoo",
+			"soundfile": "",
+			"definition": "Is used to evaluate the expected monetary gain or loss of a project. It is based on the calculation of expected cash flow. This approach uses a rate of interest to calculate the present value of the future cost and benefit for a project. The rate of interest used is based on the cost of capital."
+        },
+		{
+		    "id": "23",
+		    "chapter": "4",
+			"term": "Normal conditions",
+			"pronun": "nawr-muh l kuh n-dish-uh ns",
+			"soundfile": "",
+			"definition": "Are conditions free from extreme case assumptions. An example would be a using the number of hours worked in a normal (non-overtime) workweek to calculate work unit time estimates."
+        },
+		{
+		    "id": "24",
+		    "chapter": "4",
+			"term": "Payback analysis",
+			"pronun": "pey-bak uh-nal-uh-sis",
+			"soundfile": "",
+			"definition": "Payback analysis is used to determine how long it will take before the investment in a project results in positive cash flow. Payback occurs when the cumulative benefits are greater than cumulative costs."
+        },
+		{
+		    "id": "25",
+		    "chapter": "4",
+			"term": "Phase estimating",
+			"pronun": "feyz es-tuh-meyt",
+			"soundfile": "",
+			"definition": "An estimating method that assumes that the cost and time for subsequent phases depend upon the outcomes of earlier phases. Because of this, detailed estimates are only made for one or two cycles at a given time as the project progresses, and only rough estimates are generated for subsequent cycles."
+        },
+		{
+		    "id": "26",
+		    "chapter": "4",
+			"term": "Program evaluation review technique (PERT)",
+			"pronun": "proh-gram ih-val-yoo-ey-shuh n ri-vyoo tek-neek",
+			"soundfile": "",
+			"definition": "An application of the CPM that shows the sequence and duration for each activity as a network and enables the project manager to determine which tasks may become bottlenecks."
+        },
+		{
+		    "id": "26",
+		    "chapter": "4",
+			"term": "Program evaluation review technique (PERT)",
+			"pronun": "proh-gram ih-val-yoo-ey-shuh n ri-vyoo tek-neek",
+			"soundfile": "",
+			"definition": "An application of the CPM that shows the sequence and duration for each activity as a network and enables the project manager to determine which tasks may become bottlenecks."
+        }
+    ]
+}
+
+

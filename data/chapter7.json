@@ -1,0 +1,299 @@
+{
+    "title": "IS 378 - Important Concepts",
+	"chapter": "7",
+    "author": "Shatilla Prayer",
+    "version": "1.0",
+    "practice_instructions": "Enter the definition to the term above. Click View Answer to view the term definition.",
+    "chapter": [
+        {
+		    "id": "1",
+		    "chapter": "7",
+			"term": "Action-oriented project development",
+			"pronun": "ak-shuh n awr-ee-uh nt-ed proj-ekt dih-vel-uh p-muh nt",
+			"soundfile": "",
+			"definition": "Enerates short-term momentum at the cost of long-term benefits."
+        },
+		{
+		    "id": "2",
+		    "chapter": "7",
+			"term": "Business case",
+			"pronun": "biz-nis keys",
+			"soundfile": "",
+			"definition": "Flexible decision points; automatic management control of any deviations from the plan; the involvement of management and stakeholders at the right time and place during the project;"
+        },
+		{
+		    "id": "3",
+		    "chapter": "7",
+			"term": "Early adopters",
+			"pronun": "ur-lee uh-dopt",
+			"soundfile": "",
+			"definition": "In information systems intensive environments, users tend to rely on self training and self learning, and as a result, their expectations are continuously chang-ing. Some users are motivated and learn rapidly about new and upcoming technology."
+        },
+		{
+		    "id": "4",
+		    "chapter": "7",
+			"term": "End-stage assessment",
+			"pronun": "end-steyj uh-ses-muh nt",
+			"soundfile": "",
+			"definition": "A control point, which if successful, signifies acceptance of the deliverables promised for that stage and provides authority to go on to the next stage."
+        },
+		{
+		    "id": "5",
+		    "chapter": "7",
+			"term": "Expectation gap",
+			"pronun": "end-steyj uh-ses-muh nt",
+			"soundfile": "",
+			"definition": "All physical and mental activities necessary to reach the point of delivery of the project are executed during this stage."
+        },
+		{
+		    "id": "6",
+		    "chapter": "7",
+			"term": "Flexibility",
+			"pronun": "flek-suh-buh li-ty",
+			"soundfile": "",
+			"definition": "All physical and mental activities necessary to reach the point of delivery of the project are executed during this stage."
+        },
+		{
+		    "id": "7",
+		    "chapter": "7",
+			"term": "Gantt charts",
+			"pronun": "Gantt chahrt",
+			"soundfile": "",
+			"definition": "Used to help with resource allocation and smoothing."
+        },
+		{
+		    "id": "8",
+		    "chapter": "7",
+			"term": "Goals for a good plan",
+			"pronun": "gohls fawr a goo d plan",
+			"soundfile": "",
+			"definition": "Realistic, doable, and easy to understand. It is an effective tool to monitor progress and evaluate success."
+        },
+		{
+		    "id": "9",
+		    "chapter": "7",
+			"term": "Knowledge gap",
+			"pronun": "nol-ij gap",
+			"soundfile": "",
+			"definition": "These individuals are not necessarily technology savvy. Some organizations have a rich pool of individuals who have high expertise on technology application but are not necessarily experienced in business. These situations create a knowledge gap that can negatively influence an application or the innovative use of technology."
+        },
+		{
+		    "id": "10",
+		    "chapter": "7",
+			"term": "Living document",
+			"pronun": "liv-ing dok-yuh-muh nt",
+			"soundfile": "",
+			"definition": "A useful plan must be comprehensive, and at the same time, it must guide execution."
+        },
+		{
+		    "id": "11",
+		    "chapter": "7",
+			"term": "Management approval",
+			"pronun": "man-ij-muh nt uh-proo-vuh l",
+			"soundfile": "",
+			"definition": "Executive approval is necessary in order for a project to start. This support is also necessary throughout the project and its progress towards a success-ful outcome."
+        },
+		{
+		    "id": "12",
+		    "chapter": "7",
+			"term": "Managerial competencies",
+			"pronun": "man-i-jeer-ee-uh l  kom-pi-tuh n-sees",
+			"soundfile": "",
+			"definition": "Relate to broader issues of planning, leadership, personnel, resource management, and so on. To be successful, a project manager needs to be competent in both of these areas."
+        },
+		{
+		    "id": "13",
+		    "chapter": "7",
+			"term": "Mid-stage assessment",
+			"pronun": "mid-steyj uh-ses-muh nt",
+			"soundfile": "",
+			"definition": "The stage is of long duration, problems have been identified such as devia-tion from the plan, or there have been requests for change."
+        },
+		{
+		    "id": "14",
+		    "chapter": "7",
+			"term": "Planning pitfalls",
+			"pronun": "plan-ing pit-fawl",
+			"soundfile": "",
+			"definition": "The fact that every project is unique provides opportunities and challenges for the project manager. Following a generic recipe can be problematic. While lessons can be learned from each project, the limits of what can be learned from a past project must be understood. The uniqueness of a project provides opportunities for the project manager to fulfill organizational goals and objectives through the project."
+        },
+		{
+		    "id": "15",
+		    "chapter": "7",
+			"term": "Policies",
+			"pronun": "pol-uh-sees",
+			"soundfile": "",
+			"definition": "Provide broad parameters for decision making."
+        },
+		{
+		    "id": "16",
+		    "chapter": "7",
+			"term": "Procedures",
+			"pronun": "pruh-see-jer",
+			"soundfile": "",
+			"definition": "Describe detailed approaches to implement policies."
+        },
+		{
+		    "id": "17",
+		    "chapter": "7",
+			"term": "Project closure report",
+			"pronun": "proj-ekt kloh-zher ri-pawrt",
+			"soundfile": "",
+			"definition": "Lists the project’s achievements in terms of deliverables achieved, performance in terms of comparisons of actual against forecasted duration, cost and resource usage, and quality in terms of errors or exceptions. It also provides information to help organizational learning, for example, experience with the use of tools and development methodologies."
+        },
+		{
+		    "id": "18",
+		    "chapter": "7",
+			"term": "Project constraints",
+			"pronun": "proj-ekt kuh n-streynt",
+			"soundfile": "",
+			"definition": "The critical constraints for a project include time and budget. A project starts and ends on specific target dates. The project duration is usually divided into shorter times for phases and work units. Some projects may have more flexible time frames than others."
+        },
+		{
+		    "id": "19",
+		    "chapter": "7",
+			"term": "Project initiation report",
+			"pronun": "proj-ekt ih-nish-ee-ey-shuh n ri-pawrt",
+			"soundfile": "",
+			"definition": "The business case, defines a high-level plan, formally initiates the project, lists overall objectives for the project and defines personnel responsibilities."
+        },
+		{
+		    "id": "20",
+		    "chapter": "7",
+			"term": "Project milestones",
+			"pronun": "proj-ekt mahyl-stohns",
+			"soundfile": "",
+			"definition": "Milestones are clearly defined events with significant importance to the customer and the project development life cycle and can be used to measure progress."
+        },
+		{
+		    "id": "21",
+		    "chapter": "7",
+			"term": "Project phases",
+			"pronun": "proj-ekt feyzes",
+			"soundfile": "",
+			"definition": "Project phases allow large projects to be divided into manageable components."
+        },
+		{
+		    "id": "22",
+		    "chapter": "7",
+			"term": "Project planning process",
+			"pronun": "proj-ekt plan-ing pros-es",
+			"soundfile": "",
+			"definition": "Project phases allow large projects to be divided into manageable components."
+        },
+		{
+		    "id": "23",
+		    "chapter": "7",
+			"term": "Project planning process",
+			"pronun": "proj-ekt plan-ing pros-es",
+			"soundfile": "",
+			"definition": "Project phases allow large projects to be divided into manageable components."
+        },
+		{
+		    "id": "24",
+		    "chapter": "7",
+			"term": "Project requirements",
+			"pronun": "proj-ekt ri-kwahyuh r-muh nts",
+			"soundfile": "",
+			"definition": "The project requirements are closely linked and described through business needs. The project manager must analyze and understand business needs as well as project needs and make sure that they support each other."
+        },
+		{
+		    "id": "25",
+		    "chapter": "7",
+			"term": "Project resources",
+			"pronun": "proj-ekt ri-kwahyuh r-muh nts",
+			"soundfile": "",
+			"definition": "The critical resources for a project include human resources as well as materials and equipment."
+        },
+		{
+		    "id": "26",
+		    "chapter": "7",
+			"term": "Project success",
+			"pronun": "proj-ekt suh k-ses",
+			"soundfile": "",
+			"definition": "Achieves all of the agreed project objectives."
+        },
+		{
+		    "id": "27",
+		    "chapter": "7",
+			"term": "Projects in controlled environments (prINCE)",
+			"pronun": "proj-ekt en kuh n-trohled en-vahy-ruh n-muh nts",
+			"soundfile": "",
+			"definition": "A structured and standard approach for project management originally designed for all IT projects of the UK government, although it is now used elsewhere and not just for IT projects."
+        },
+		{
+		    "id": "28",
+		    "chapter": "7",
+			"term": "Purpose of planning",
+			"pronun": "proj-ekt uhv plan-ing",
+			"soundfile": "",
+			"definition": "Requires diverse talents and skills, influence many individuals and groups in different departments, and require close collaboration with end-users. This means that, for any project, a great deal of coordination, communication, and negotia-tion is required in order to produce a successful outcome. Planning is an effective mechanism that helps project managers accomplish these objectives."
+        },
+		{
+		    "id": "29",
+		    "chapter": "7",
+			"term": "Reluctant users",
+			"pronun": "ri-luhk-tuh nt yoo-zers",
+			"soundfile": "",
+			"definition": "These people often know their work and their business but are afraid of change or lack confidence in learning new tools. This also could provide problems due to inappropriate expectations."
+        },
+		{
+		    "id": "30",
+		    "chapter": "7",
+			"term": "Resource issues",
+			"pronun": "ree-sawrs ish-oos",
+			"soundfile": "",
+			"definition": "Human resources and technology, and success measures such as customer satisfaction with deliverables. Reflecting on these issues enables the project manager to prepare for alternatives."
+        },
+		{
+		    "id": "31",
+		    "chapter": "7",
+			"term": "Road map",
+			"pronun": "rohd map",
+			"soundfile": "",
+			"definition": "The execution of project activities."
+        },
+		{
+		    "id": "32",
+		    "chapter": "7",
+			"term": "Strategic issues",
+			"pronun": "struh-tee-jik ish-oos",
+			"soundfile": "",
+			"definition": "Important issues that influence all projects and that a project manager must carefully consider."
+        },
+		{
+		    "id": "33",
+		    "chapter": "7",
+			"term": "Success measures",
+			"pronun": "suh k-ses mezh-ers",
+			"soundfile": "",
+			"definition": "Customer satisfaction with deliverables."
+        },
+		{
+		    "id": "34",
+		    "chapter": "7",
+			"term": "Tactical issues",
+			"pronun": "tak-ti-kuh l ish-oos",
+			"soundfile": "",
+			"definition": "Day-to-day operations."
+        },
+		{
+		    "id": "35",
+		    "chapter": "7",
+			"term": "Technical competencies",
+			"pronun": "tek-ni-kuh l kom-pi-tuh n-sees",
+			"soundfile": "",
+			"definition": "Detailed activities such as scheduling, estimating, quality control, and the like as well as hardware and software issues."
+        },
+		{
+		    "id": "36",
+		    "chapter": "7",
+			"term": "Work units",
+			"pronun": "wurk yoo-nits",
+			"soundfile": "",
+			"definition": "Defined through its duration (start date and time, completion date and time), the resources required, and the person responsible for it."
+        }
+    ]
+}
+
+
