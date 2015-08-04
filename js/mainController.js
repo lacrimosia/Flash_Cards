@@ -8,6 +8,7 @@ app.controller("mainCtrl", ['$scope', 'grabData', '$location', '$routeParams', '
 	 
 	     // display json data
 grabData.get(function(data){
+	    $scope.chapter = data;
 		$scope.total1 = data.chapter1.length;
          $scope.allTerms1 = data.chapter1;
 		 
@@ -367,19 +368,6 @@ for(var s=0; s<15; s++){
     }
  }
 };
-
-// next 
-$scope.count = 0;
-$scope.next = function(chaps){
-	 if(chaps == 'Chapter-1'){
-			$location.url('/practice/Chapter-1/' + $scope.allTerms1[$scope.count].term); 
-			$location.url('/review/Chapter-1/' + $scope.allTerms1[$scope.count].term); 
-    }
-	 if(chaps == 'Chapter-2'){
-			$location.url('/review/Chapter-2/' + $scope.allTerms2[0].term); 
-	}
-};
-
 	
 }]);
 
