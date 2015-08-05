@@ -1,4 +1,4 @@
-app.controller("mainCtrl", ['$scope', 'grabData', '$location', '$routeParams', '$route', '$parse', 'ngAudio', function($scope, grabData, $location, $routeParams, $route, $parse, ngAudio) {
+app.controller("mainCtrl", ['$scope', 'grabData', '$location', '$routeParams', '$route', '$parse', function($scope, grabData, $location, $routeParams, $route, $parse) {
 	
 	// getting routing defaults
 	$scope.$route = $route;
@@ -8,7 +8,6 @@ app.controller("mainCtrl", ['$scope', 'grabData', '$location', '$routeParams', '
 	 
 	     // display json data
 grabData.get(function(data){
-	    $scope.chapter = data;
 		$scope.total1 = data.chapter1.length;
          $scope.allTerms1 = data.chapter1;
 		 
@@ -52,6 +51,9 @@ grabData.get(function(data){
          $scope.allTerms14 = data.chapter14; */
 });
 
+// variables	
+	$scope.inputText = "";    // User text
+	$scope.next = 0;             // questions array position
 // stores current term index	
     $scope.shared = [];
 	
@@ -85,14 +87,12 @@ grabData.get(function(data){
 	// change term
 	$scope.theNum = $scope.shared;
 	
-
 // changes link for practice terms	
 	$scope.PracticeTerm = function(num){
 		for(var r=1; r<15; r++){
 			if(num == r){
-				// console.log('practicing', '/practice/Chapter-'+$scope['allTerms'+r][$scope.shared[$scope.shared.length-1]].chapter);
+				console.log('practicing', '/practice/Chapter-'+$scope['allTerms'+r][$scope.shared[$scope.shared.length-1]].chapter);
 			  $location.url('/practice/Chapter-'+$scope['allTerms'+r][$scope.shared[$scope.shared.length-1]].chapter+'/' + $scope['allTerms'+r][$scope.shared[$scope.shared.length-1]].term); 
-			// return $scope.['allTerms'+r][r].pronun;
 		  }
 		}
 	};
@@ -359,8 +359,27 @@ for(var s=0; s<15; s++){
 }
 };
 
-// load sound
-$scope.sound = ngAudio.load("audio/testing.mp3");
+
+ $scope.reviews = function(chaps){
+ for(var g=0; g<15; g++){
+	  if(chaps == 'Chapter-'+g){
+			$location.url('/review/Chapter-'+g+'/'+$scope['allTerms'+g][0].term); 
+    }
+ }
+};
+
+// next 
+$scope.count = 0;
+$scope.next = function(chaps){
+	 if(chaps == 'Chapter-1'){
+			$location.url('/practice/Chapter-1/' + $scope.allTerms1[$scope.count].term); 
+			$location.url('/review/Chapter-1/' + $scope.allTerms1[$scope.count].term); 
+    }
+	 if(chaps == 'Chapter-2'){
+			$location.url('/review/Chapter-2/' + $scope.allTerms2[0].term); 
+	}
+};
+
 	
 }]);
 

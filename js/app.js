@@ -1,4 +1,4 @@
-var app = angular.module('test', ['ngRoute', 'ui.bootstrap', 'ngAudio']);
+var app = angular.module('test', ['ngRoute', 'ui.bootstrap']);
 
 
 // routes
@@ -22,35 +22,20 @@ app.config(['$routeProvider',
         templateUrl: 'partials/review.html',
 		controller: 'mainCtrl'
       });
+	  
   }]);
   
- app.controller('AccordionDemoCtrl', function ($scope, $location, $routeParams, $route) {
+  
+ 
+ app.controller('AccordionDemoCtrl', function ($scope) {
   $scope.oneAtATime = true;
   $scope.oneAtATime1 = true;
 
-
-	$scope.change = [
-	   {
-		'one': 'Chapter-1',
-		open: true
-	   }
-	];
-
-$scope.linkParam = [];
-$scope.par = function(){
-	$scope.linkParam.push($routeParams.chapters);
-	// console.log($scope.linkParam[0]);
-	if($scope.linkParam[$scope.linkParam.length-1] == $scope.change[0].one){
-		//console.log($scope.change[0].open);
-		return $scope.change[0].open;
-	}
-};
+$scope.changeStatus = function(numbers){
 	
-$scope.opened = false;
-
-
+};
   
-/*  // chapter 1
+ // chapter 1
 var status = {
     isFirstOpen: true,
     isFirstDisabled: false
@@ -117,7 +102,7 @@ var status12 = {
     isFirstOpen: true,
     isFirstDisabled: false
   };
-   */
+  
   // chapter 4
 
 });
