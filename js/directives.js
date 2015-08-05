@@ -30,15 +30,6 @@ return {
   }
 }]);
 
-
-// title
-app.directive('title', [function(){
-return {
-    restrict: 'E',
-    template: '<div class="col-md-12"><h1 class="text-center the_term">{{ term }}</h1></div>'
-  }
-}]);
-
 // bottom nav
 app.directive('bottomNav', [function(){
 return {
