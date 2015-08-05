@@ -13,7 +13,7 @@ app.directive('sideMenu', [function(){
 return {
     restrict: 'A',
 	 scope: {
-            //@ reads the attribute value, = provides two-way binding, & works with functions      
+            active: "="      
 		},
     templateUrl: 'partials/menu.html'
   }
@@ -27,6 +27,15 @@ return {
             //@ reads the attribute value, = provides two-way binding, & works with functions      
 		},
     templateUrl: 'partials/top.html'
+  }
+}]);
+
+
+// title
+app.directive('title', [function(){
+return {
+    restrict: 'E',
+    template: '<div class="col-md-12"><h1 class="text-center the_term">{{ term }}</h1></div>'
   }
 }]);
 

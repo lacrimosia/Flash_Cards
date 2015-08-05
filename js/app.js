@@ -25,9 +25,8 @@ app.config(['$routeProvider',
 	  
   }]);
   
-  
- 
- app.controller('AccordionDemoCtrl', function ($scope) {
+
+/*  app.controller('AccordionDemoCtrl', function ($scope) {
   $scope.oneAtATime = true;
   $scope.oneAtATime1 = true;
 
@@ -105,7 +104,7 @@ var status12 = {
   
   // chapter 4
 
-});
+}); */
 
 // top menu controller
 app.controller('home', function($scope, $location, $routeParams, $route, $modal, $log){

@@ -17,7 +17,14 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.12.0/ui-bootstrap.js"></script>
   </head>
   <body>
-<div ng-view class="container mains"></div>
+  <div class="container mains">
+  <div class="col-md-3 side_menu">
+     <div side-menu></div><!--end menu-->
+ </div>
+<div ng-view>
+ </div>
+ </div>
+ 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 	<script src="js/angular.audio.js"></script>

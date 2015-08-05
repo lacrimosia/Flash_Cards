@@ -86,17 +86,17 @@ grabData.get(function(data){
 
 	// change term
 	$scope.theNum = $scope.shared;
-	
+
 // changes link for practice terms	
 	$scope.PracticeTerm = function(num){
-		for(var r=1; r<15; r++){
+          for(var r=0; r<15; r++){
 			if(num == r){
-				console.log('practicing', '/practice/Chapter-'+$scope['allTerms'+r][$scope.shared[$scope.shared.length-1]].chapter);
 			  $location.url('/practice/Chapter-'+$scope['allTerms'+r][$scope.shared[$scope.shared.length-1]].chapter+'/' + $scope['allTerms'+r][$scope.shared[$scope.shared.length-1]].term); 
-		  }
+		    }
 		}
 	};
-	
+
+$scope.pagename = function() { return $location.path(); };
 
 // changes link for review terms	
 	$scope.ReviewTerm = function(num){

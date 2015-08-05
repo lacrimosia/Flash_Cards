@@ -16,7 +16,7 @@ padding: 0 !important;
 }
 
 .active {
-    background-color:#8DB8CD;
+    background-color: red !important;
 	color: #353535 !important;
 }
 
