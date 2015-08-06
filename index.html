@@ -18,13 +18,14 @@
   </head>
   <body>
   <div class="container mains">
-  <div class="col-md-3 side_menu">
-     <div side-menu></div><!--end menu-->
- </div>
-<div ng-view>
- </div>
- </div>
- 
+     <side-menu></side-menu><!-- side menu-->
+<div class="col-md-9 core">
+<div class="row">
+     <top-nav></top-nav><!--top navigation-->
+     <div ng-view></div>
+	 </div><!--end row-->
+</div><!--end template wrapper-->
+ </div><!--end container-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 	<script src="js/angular.audio.js"></script>

@@ -11,7 +11,7 @@ return {
 // side menu
 app.directive('sideMenu', [function(){
 return {
-    restrict: 'A',
+    restrict: 'E',
 	 scope: {
             active: "="      
 		},

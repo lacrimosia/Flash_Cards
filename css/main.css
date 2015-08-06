@@ -16,9 +16,14 @@ padding: 0 !important;
 }
 
 .active {
-    background-color: red !important;
-	color: #353535 !important;
+    background-color: #8DB8CD !important;
+	
 }
+.active a{
+	color: #ffffff !important;
+	outline: none !important;
+}
+
 
 li.ng-scope {
 list-style-type: none !important;
@@ -60,7 +65,7 @@ color: #515151 !important;
 }
 
 a:hover{
-background: #E6E6E6 !important;
+/* background: #E6E6E6 !important; */
 }
 
 .side_menu{

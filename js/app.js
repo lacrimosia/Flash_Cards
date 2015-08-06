@@ -34,6 +34,86 @@ app.controller('home', function($scope, $location, $routeParams, $route, $modal,
 	
 });
 
+ app.controller('AccordionDemoCtrl', function ($scope) {
+  $scope.oneAtATime = true;
+  $scope.oneAtATime1 = true;
+
+$scope.changeStatus = function(numbers){
+	
+};
+  
+ // chapter 1
+var status = {
+    isFirstOpen: true,
+    isFirstDisabled: false
+  };
+  
+var status2 = {
+    isFirstOpen: true,
+    isFirstDisabled: false
+  };
+  
+var status3 = {
+    isFirstOpen: true,
+    isFirstDisabled: false
+  };
+
+ // chapter 1 ^
+
+ var status4 = {
+    isFirstOpen: true,
+    isFirstDisabled: false
+  };
+  
+var status5 = {
+    isFirstOpen: true,
+    isFirstDisabled: false
+  };
+  
+var status6 = {
+    isFirstOpen: true,
+    isFirstDisabled: false
+  };
+
+ // chapter 2 ^
+  
+  
+   var status7 = {
+    isFirstOpen: true,
+    isFirstDisabled: false
+  };
+  
+var status8 = {
+    isFirstOpen: true,
+    isFirstDisabled: false
+  };
+  
+var status9 = {
+    isFirstOpen: true,
+    isFirstDisabled: false
+  };
+  
+  // chapter 3
+  
+     var status10 = {
+    isFirstOpen: true,
+    isFirstDisabled: false
+  };
+  
+var status11 = {
+    isFirstOpen: true,
+    isFirstDisabled: false
+  };
+  
+var status12 = {
+    isFirstOpen: true,
+    isFirstDisabled: false
+  };
+  
+  // chapter 4
+
+});
+
 
 // help page
 app.controller('help', function($scope, $location) {

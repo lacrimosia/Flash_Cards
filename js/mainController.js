@@ -343,10 +343,10 @@ $scope.pagename = function() { return $location.path(); };
     };
 
 	// get current link
-  $scope.selectedIndex = 0; // Whatever the default selected index is, use -1 for no selection
+ $scope.selectedIndex = 0; // The default index, use -1 for no selection
 
  $scope.itemClicked = function ($index) {
-    console.log($index);
+    // console.log($index);
     $scope.selectedIndex =  $index;
   };
   
