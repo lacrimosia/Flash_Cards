@@ -1,13 +1,9 @@
-// load factory data
+'use strict';
 
-app.factory('grabData', ['$http', function($http){
-  return {
-    get: function(callback){
-      $http.get('data/contents.json').success(function(data){
-        callback(data);
-      });
-    }
-  }
-}]);
+angular.module('FlashCards.services', [])
 
+  .factory('Data', ['$http', function($http) {
 
+		return $http.get('data/contents.json');
+
+  }]);

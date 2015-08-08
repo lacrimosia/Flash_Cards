@@ -1,37 +1,33 @@
 <!DOCTYPE html>
-<html  lang="en" ng-app="test">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="description" content="">
-	<title> IS 378 - Important Concepts </title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/g/normalize@3.0.3(normalize.min.css),pure@0.6.0(buttons-min.css+forms-min.css+grids-min.css+grids-responsive-min.css+menus-min.css+tables-min.css),animatecss@3.2.6(animate.min.css)" rel="stylesheet">
-	<link href="css/main.css" rel="stylesheet"/>
-    <link href="https://cdn.jsdelivr.net/fontawesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet" type="text/css">
-	 <link href="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
-	 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
-	 <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.3/angular.min.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.5/angular-route.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.12.0/ui-bootstrap.js"></script>
-  </head>
-  <body>
-  <div class="container mains">
-     <side-menu></side-menu><!-- side menu-->
-<div class="col-md-9 core">
-<div class="row">
-     <top-nav></top-nav><!--top navigation-->
-     <div ng-view></div>
-	 </div><!--end row-->
-</div><!--end template wrapper-->
- </div><!--end container-->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-	<script src="js/angular.audio.js"></script>
-	<script src="js/app.js"></script>
-	<script src="js/directives.js"></script>
-	<script src="js/mainController.js"></script>
-    <script src="js/services.js"></script>
-  </body>
+<html ng-app="FlashCards">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title> IS 378 - Important Concepts </title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="//cdn.jsdelivr.net/g/normalize@3.0.3(normalize.min.css)" rel="stylesheet">
+  <link href="//cdn.jsdelivr.net/fontawesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet" type="text/css">
+  <link href="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/base-0.7.css" rel="stylesheet">
+  <link href="css/app.css" rel="stylesheet">
+
+</head>
+
+<body ng-controller="FlashCardsCtrl" ng-cloak>
+  <section class="content clearfix" autoscroll="false" ui-view></section>
+  <script src="//cdn.jsdelivr.net/g/angularjs@1.4.2(angular.min.js+angular-animate.min.js),angular.ui-router@0.2.15(angular-ui-router.min.js)"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.12.0/ui-bootstrap.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/services.js"></script>
+  <script src="js/controllers.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/directives.js"></script>
+</body>
+
 </html>

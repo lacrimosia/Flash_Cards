@@ -1,0 +1,74 @@
+<div class="container">
+  <div class="col-md-3 menu side_menu">
+    <div ng-controller="NavMenuCtrl">
+      <accordion>
+        <!--chapter accordian-->
+        <accordion-group ng-repeat="c in chapters track by $index" is-open="c.open">
+          <accordion-heading>
+            <span ng-click="openChapter($index,chapters)"><i class="fa fa-book"></i>{{ c.title }}<i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': c.open, 'glyphicon-chevron-right': !c.open}"></i></span>
+          </accordion-heading>
+          <accordion>
+            <!--term accordian-->
+            <accordion-group heading="Practice" is-open="c.practiceOpen">
+              <ul>
+                <li ng-repeat="t in c.terms track by $index" ng-class="{ 'active': $parent.$index == currentChapter && $index == currentTerm && currentState=='home.practice'}">
+                  <a ui-sref="home.practice({chapter: $parent.$index, term: $index})" >{{t.term}}</a>
+              </ul>
+            </accordion-group>
+            <!--term accordian-->
+            <accordion-group heading="Review" is-open="c.reviewOpen">
+              <ul>
+                <li ng-repeat="t in c.terms track by $index" ng-class="{ 'active': $parent.$index == currentChapter && $index == currentTerm && currentState=='home.review'}">
+                  <a ui-sref="home.review({chapter: $parent.$index, term: $index})" >{{t.term}}</a>
+              </ul>
+            </accordion-group>
+            <!-- end term accordian-->
+          </accordion>
+        </accordion-group>
+        <!-- end chapter accordian-->
+      </accordion>
+      <!--end main accordion-->
+    </div>
+    <!--end menu-->
+  </div>
+  <div class="col-md-9 core">
+    <!-- Top nav -->
+    <div class="col-md-12">
+      <h5 class="pull-left">IS 378 - Important Concepts</h5>
+      <div class="buttons">
+        <button type="submit" class="sub btn btn-primary btn-large pull-right tops" ng-controller="HelpCtrl" ng-click="help();"><i class="fa fa-question"></i> Help</button>
+      </div>
+      <div class="buttons">
+        <button type="button" class="sub btn btn-primary btn-large pull-right tops mar" ng-controller="HomeCtrl" ng-click="home();"><i class="fa fa-home"></i> Home</button>
+      </div>
+    </div>
+    <!-- End top nav -->
+    <div class="row" ui-view>
+      <!-- Main Display -->
+      <div class="col-md-12" ng-controller="Chapters">
+        <div class="row">
+          <div class="col-sm-12">
+            <h1 class="text-center the_term">Select a Chapter</h1>
+          </div>
+          <div class="col-sm-6">
+            <ul>
+              <li ng-repeat="c in chapters | limitTo: 7" role="button" class="btn btn-default btn-lg chaps center-block clicks" ng-click="gotoChapter($index);"><i class="fa fa-book"></i> {{ c.title }}</li>
+            </ul>
+          </div>
+          <div class="col-sm-6">
+            <ul>
+              <li ng-repeat="c in chapters | limitTo: -7" role="button" class="btn btn-default btn-lg chaps center-block clicks" ng-click="gotoChapter($index)"><i class="fa fa-book"></i> {{ c.title }}</li>
+            </ul>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+      <!--end 12 text area-->
+    </div>
+    <!-- End Main Display -->
+    <div class="col-md-12">
+		 <div class="buttons" ng-if="inChapter() && currentTerm > 0" ><button type="button" class="sub btn btn-primary btn-large pull-left bots" ng-click="gotoTerm(currentChapter,currentTerm,'prev');"><i class="fa fa-arrow-left"></i> PREV</button></div>
+		 <div class="buttons" ng-if="inChapter() && currentTerm < (chapters[currentChapter].terms.length -1) " ><button type="button" class="sub btn btn-primary btn-large pull-right bots" ng-click="gotoTerm(currentChapter,currentTerm,'next');">NEXT <i class="fa fa-arrow-right"></i> </button></div>
+   </div>
+  </div>
+</div>
