@@ -1,62 +1,78 @@
-<!-- practice area-->	
-								      <div class="col-md-12">
-									  <div class="userarea">
-			                                  <div class="col-md-12"><h1 class="text-center the_term">{{ term }}</h1></div>
-		                              </div><!--end col 12-->
-									<div class="col-md-12" ng-hide="showDetails">
-										<h4 class="text-center pronuc">Pronunciation</h4>
-									</div><!--end 12-->
-									
-									<div class="col-md-5" ng-hide="showDetails">
-										<img src="images/audio.png" class="pull-right"/> 
-									</div><!--end 6-->
-									<div class="col-md-7" ng-hide="showDetails">
-										<h1 class="pronuc_word">{{ PronunFinder(term, chapters) }}</h1>
-									</div><!--end 6-->
-									
-									
-									<div class="col-md-12 line"><p></p></div>
-									
-									<div class="col-md-12" ng-hide="showDetails">
-										<p class="text-center instruct">{{chapter.practice_instructions }}</p>
-										
-										<div class="form-group">
-                                                 <textarea class="form-control" rows="3" ng-model="userAnswers"></textarea>
-                                        </div>
-										<div class="form-group">
-                                                 <button type="button" class="btn btn-default btn-lg center-block clicks" ng-click="showDetails = ! showDetails">View Answer</button>
-                                        </div>
-										</div> <!--end the user area-->
-										<!-- answer area-->
-										
-										
-										
-										<div class="answerArea" ng-show="showDetails">
-											<div class="col-md-6">
-												<h4>Your answer</h4>
-												<div class="well answersafter">
-											      {{ userAnswers }}
-										</div>
-											</div><!--end 6-->
-											
-											<div class="col-md-6">
-												<h4>Definition</h4>
-												<div class="well answersafter">
-											{{ defFinder(term, chapters) }}
-										</div>
-											</div><!--end 6-->
-											
-											<div class="col-md-12">
-											<div class="form-group">
-                                                 <button type="button" class="btn btn-default btn-lg center-block clicks" ng-click="showDetails = ! showDetails">Try Again</button>
-                                            </div>
-											</div><!--end 12 for button-->
-											
-											<div class="clearfix"></div>
-											
-										</div><!--end column well-->
-										<!--end answer area-->
-										
-									</div><!--end 12 text area-->
-								<div class="clearfix"></div>
-								<bottom-nav></bottom-nav>		
+<!-- practice area-->
+<div class="col-md-12">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="userarea">
+        <div class="col-md-12">
+          <h1 class="text-center the_term">{{ chapters[currentChapter].terms[currentTerm].term }}</h1>
+        </div>
+      </div>
+      <!--end col 12-->
+      <div class="col-md-12" ng-hide="showDetails">
+        <h4 class="text-center pronuc">Pronunciation</h4>
+      </div>
+      <!--end 12-->
+
+      <div class="col-md-5" ng-hide="showDetails">
+        <img src="img/audio.png" class="pull-right" ng-audio='{{ chapters[currentChapter].terms[currentTerm].soundFile }}' data-toggle="tooltip" data-placement="top" tooltip="Listen to pronunciation" />
+      </div>
+      <!--end 6-->
+      <div class="col-md-7" ng-hide="showDetails">
+        <h1 class="pronuc_word">{{ chapters[currentChapter].terms[currentTerm].pronun }}</h1>
+      </div>
+      <!--end 6-->
+
+
+      <div class="col-md-12 line">
+        <p></p>
+      </div>
+
+      <div class="col-md-12" ng-hide="showDetails">
+        <p class="text-center instruct">{{ data.practice_instructions }}</p>
+
+        <div class="form-group">
+          <textarea class="form-control" rows="3" ng-model="userAnswers"></textarea>
+        </div>
+        <div class="form-group">
+          <button type="button" class="btn btn-default btn-lg center-block clicks" ng-click="showDetails = ! showDetails">View Answer</button>
+        </div>
+      </div>
+      <!--end the user area-->
+      <!-- answer area-->
+      <div class="answerArea" ng-show="showDetails">
+        <div class="col-md-6">
+          <h4>Your answer</h4>
+          <div class="well answersafter">
+            {{ userAnswers }}
+          </div>
+        </div>
+        <!--end 6-->
+
+        <div class="col-md-6">
+          <h4>Definition</h4>
+          <div class="well answersafter">
+            {{ chapters[currentChapter].terms[currentTerm].definition }}
+          </div>
+        </div>
+        <!--end 6-->
+
+        <div class="col-md-12">
+          <div class="form-group">
+            <button type="button" class="btn btn-default btn-lg center-block clicks" ng-click="showDetails = ! showDetails">Try Again</button>
+          </div>
+        </div>
+        <!--end 12 for button-->
+
+        <div class="clearfix"></div>
+
+      </div>
+      <!--end column well-->
+      <!--end answer area-->
+
+    </div>
+    <!--end 12 text area-->
+
+  </div>
+  <!--end second row-->
+  <div class="clearfix"></div>
+</div>

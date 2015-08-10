@@ -1,21 +1,25 @@
-                            <div class="col-md-12" ng-controller="mainCtrl">
-									       <div class="row">
-										   <div class="col-sm-12">
-											<h1 class="text-center the_term">Select an Option</h1>
-										   </div>
-                                              <div class="col-sm-6 heights">
-                                                      <div class="form-group">
-                                                        <button type="button" class="btn btn-default btn-lg center-block clicks"   data-toggle="tooltip" data-placement="top" tooltip="Practice Learning Terms"  ng-click="practices(chapters)"><i class="fa fa-laptop"></i> Practice</button>
-                                                    </div>
-                                             </div>
-                                             <div class="col-sm-6 heights">
-                                                       <div class="form-group">
-                                                        <button type="button" class="btn btn-default btn-lg center-block clicks" data-toggle="tooltip" data-placement="top" tooltip="Review Terms" ng-click="reviews(chapters)"><i class="fa fa-book"></i> Review</button>
-                                                    </div>
-                                               </div>
-                                            </div>
-										<div class="clearfix"></div>
-										
-										<!--end answer area-->
-										
-									</div><!--end 12 text area-->
+<div class="col-md-12">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1 class="text-center the_term">Select an Option</h1>
+        </div>
+        <div class="col-sm-6 heights">
+          <div class="form-group">
+            <button type="button" class="btn btn-default btn-lg center-block clicks" data-toggle="tooltip" data-placement="top" tooltip="Practice Learning Terms" ng-click="practice()"><i class="fa fa-laptop"></i> Practice</button>
+          </div>
+        </div>
+        <div class="col-sm-6 heights">
+          <div class="form-group">
+            <button type="button" class="btn btn-default btn-lg center-block clicks" data-toggle="tooltip" data-placement="top" tooltip="Review Terms" ng-click="review()"><i class="fa fa-book"></i> Review</button>
+          </div>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+      <!--end answer area-->
+    </div>
+    <!--end 12 text area-->
+  </div>
+  <!--end second row-->
+</div>

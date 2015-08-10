@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('FlashCards.controllers', [])
+angular.module('FlashCards.controllers', ['ngAria'])
 
 .controller('FlashCardsCtrl', function($rootScope, $scope, $state, Data) {
 
@@ -15,6 +15,11 @@ angular.module('FlashCards.controllers', [])
   Data.success(function(data) {
     $scope.data = data;
     $scope.chapters = data.chapters;
+    $scope.chapters.forEach(function(chapter) {
+      chapter.open = false;
+      chapter.practiceOpen = false;
+      chapter.reviewOpen = false;
+    });
   });
 
   $scope.inChapter = function() {
@@ -40,7 +45,7 @@ angular.module('FlashCards.controllers', [])
 
 })
 
-.controller('HomeCtrl', function($rootScope, $scope, $http, $state) {
+.controller('HomeCtrl', function($rootScope, $scope, $state, hotkeys) {
   $rootScope.currentState = $state.current.name;
   $scope.home = function() {
     $rootScope.currentChapter = -1;
@@ -49,9 +54,16 @@ angular.module('FlashCards.controllers', [])
   };
 
   $scope.openChapter = function(chapterIndex,chapters) {
-    $rootScope.currentChapter = chapterIndex;
-    $rootScope.currentTerm = -1;
-    $state.go('home.option');
+    console.log($scope.chapters[chapterIndex].open);
+    if($scope.chapters[chapterIndex].open == false ) {
+      $rootScope.currentChapter = chapterIndex;
+      $rootScope.currentTerm = -1;
+      $state.go('home.option');
+    } else {
+      $rootScope.currentChapter = -1;
+      $rootScope.currentTerm = -1;
+      $state.go('home');
+    }
   }
 
   $scope.gotoTerm = function(chapterIndex,termIndex,dir) {
@@ -62,6 +74,29 @@ angular.module('FlashCards.controllers', [])
     }
     $state.go($rootScope.currentState,{'chapter' : chapterIndex, 'term': termIndex});
   };
+
+  hotkeys.bindTo($scope)
+    .add({
+      combo: 'a',
+      description: 'Previous card',
+      callback: function() {
+        $scope.gotoTerm($rootScope.currentChapter,$rootScope.currentTerm,'prev');
+      }
+    })
+    .add({
+      combo: 'd',
+      description: 'Next card',
+      callback: function() {
+        $scope.gotoTerm($rootScope.currentChapter,$rootScope.currentTerm,'next');
+      }
+    })
+    .add({
+      combo: 's',
+      description: 'View card',
+      callback: function() {
+        $scope.showDetails = !$scope.showDetails
+      }
+    });
 })
 
 .controller('HelpCtrl', function($scope, $http, $state) {
@@ -92,16 +127,6 @@ angular.module('FlashCards.controllers', [])
     $state.go('home.review',{'chapter' : $rootScope.currentChapter, 'term': 0});
   }
 })
-
-.controller('NavMenuCtrl', function($rootScope, $scope) {
-
-})
-
-.controller('TermCtrl', function($scope) {
-
-})
-
-
 
 .controller('PracticeCtrl', function($rootScope, $scope, $state, $stateParams) {
   $rootScope.currentState = $state.current.name;
