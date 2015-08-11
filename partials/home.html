@@ -57,7 +57,7 @@
           </div>
           <div class="col-sm-6">
             <ul>
-              <li ng-repeat="c in chapters | limitTo: -7" role="button" class="btn btn-default btn-lg chaps center-block clicks" ng-click="gotoChapter($index)"><i class="fa fa-book"></i> {{ c.title }}</li>
+              <li ng-repeat="c in chapters | limitTo: -7" role="button" class="btn btn-default btn-lg chaps center-block clicks" ng-click="gotoChapter($index+7)"><i class="fa fa-book"></i> {{ c.title }}</li>
             </ul>
           </div>
         </div>

@@ -296,8 +296,8 @@
       "pronun": "trans-fer-mey-shuh n  cheynj ",
       "soundfile": "",
       "definition": "A quick and dramatic change that may be met with greater resistance because of these qualities."
-      }]
-    }, {
+    }]
+  }, {
     "title": "Chapter 3",
     "terms": [{
       "id": "1",
@@ -460,8 +460,8 @@
       "pronun": "wurk yoo-nit",
       "soundfile": "",
       "definition": "Are defined by duration, required resources, and the person responsible for the work. Each project phase is divided into work units that are linked to a single deliverable. A work unit is the lowest level in the WBS and should be designed to be easy to assign to an individual and to evaluate."
-      }]
-    }, {
+    }]
+  }, {
     "title": "Chapter 4",
     "terms": [{
       "id": "1",
@@ -652,8 +652,8 @@
       "pronun": "proh-gram ih-val-yoo-ey-shuh n ri-vyoo tek-neek",
       "soundfile": "",
       "definition": "An application of the CPM that shows the sequence and duration for each activity as a network and enables the project manager to determine which tasks may become bottlenecks."
-      }]
-    }, {
+    }]
+  }, {
     "title": "Chapter 5",
     "terms": [{
       "id": "1",
@@ -879,8 +879,8 @@
       "pronun": "vair-ee-uh ns",
       "soundfile": "",
       "definition": "The square of the standard deviation."
-      }]
-    }, {
+    }]
+  }, {
     "title": "Chapter 6",
     "terms": [{
       "id": "1",
@@ -1099,8 +1099,8 @@
       "pronun": "truhst",
       "soundfile": "",
       "definition": "A two-way process, and if you do not listen and value what your team members say, it is unlikely that they will listen to you and show you respect. This respect for others can be gained by asking advice and delegating appropriately and trusting colleagues to do a good job."
-      }]
-    }, {
+    }]
+  }, {
     "title": "Chapter 7",
     "terms": [{
       "id": "1",
@@ -1354,8 +1354,8 @@
       "pronun": "wurk yoo-nits",
       "soundfile": "",
       "definition": "Defined through its duration (start date and time, completion date and time), the resources required, and the person responsible for it."
-      }]
-    }, {
+    }]
+  }, {
     "title": "Chapter 8",
     "terms": [{
       "id": "1",
@@ -1623,8 +1623,8 @@
       "pronun": "teem-wurk at-i-tood",
       "soundfile": "",
       "definition": "Addressing some of the skill problems that may exist within the team. Significant learning and development occurs as team members interact to help and to learn from each other. The project manager should facilitate the process of integration, ensure that everyone feels an equal member of the team, and encourage the teamwork attitude from the start."
-      }]
-    }, {
+    }]
+  }, {
     "title": "Chapter 9",
     "terms": [{
       "id": "1",
@@ -1809,5 +1809,20 @@
       "soundfile": "",
       "definition": "SWOT is an acronym for Strengths, Weaknesses, Opportunities, and Threats. During the analysis, items that fit into these categories and that apply to the project are identified."
     }]
+  }, {
+    "title": "Chapter 10",
+    "terms": []
+  }, {
+    "title": "Chapter 11",
+    "terms": []
+  }, {
+    "title": "Chapter 12",
+    "terms": []
+  }, {
+    "title": "Chapter 13",
+    "terms": []
+  }, {
+    "title": "Chapter 14",
+    "terms": []
   }]
 }

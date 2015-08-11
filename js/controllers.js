@@ -99,7 +99,7 @@ angular.module('FlashCards.controllers', ['ngAria'])
     });
 })
 
-.controller('HelpCtrl', function($scope, $http, $state) {
+.controller('HelpCtrl', function($rootScope, $scope, $http, $state) {
   $scope.help = function() {
     $state.go('home.help');
   };
