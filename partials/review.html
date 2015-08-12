@@ -13,7 +13,7 @@
 					<!--end 12 pronunciation-->
 
 					<div class="col-md-5" ng-hide="showDetails">
-		        <img src="img/audio.png" class="pull-right" ng-audio='{{ chapters[currentChapter].terms[currentTerm].soundFile }}' data-toggle="tooltip" data-placement="top" tooltip="Listen to pronunciation" />
+		        <img src="img/audio.png" class="pull-right" ng-click="responsiveVoice.speak(chapters[currentChapter].terms[currentTerm].term, 'UK English Male', {rate: 1 })" data-toggle="tooltip" data-placement="top" tooltip="Listen to pronunciation" />
 		      </div>
 		      <!--end 6-->
 		      <div class="col-md-7" ng-hide="showDetails">

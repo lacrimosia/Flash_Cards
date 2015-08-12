@@ -1,11 +1,11 @@
 <div class="container">
-  <div class="col-md-3 menu side_menu">
+  <div class="col-md-3 menu side_menu side_scroll">
     <div>
       <accordion>
         <!--chapter accordian-->
         <accordion-group ng-repeat="c in chapters track by $index" is-open="c.open">
           <accordion-heading>
-            <span ng-click="openChapter($index,chapters)"><i class="fa fa-book"></i>{{ c.title }}<i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': c.open, 'glyphicon-chevron-right': !c.open}"></i></span>
+            <span ng-click="openChapter($index,chapters)" id="anchor{{c}}"><i class="fa fa-book"></i> {{ c.title }}<i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': c.open, 'glyphicon-chevron-right': !c.open}"></i></span>
           </accordion-heading>
           <accordion>
             <!--term accordian-->
@@ -57,7 +57,7 @@
           </div>
           <div class="col-sm-6">
             <ul>
-              <li ng-repeat="c in chapters | limitTo: -7" role="button" class="btn btn-default btn-lg chaps center-block clicks" ng-click="gotoChapter($index+7)"><i class="fa fa-book"></i> {{ c.title }}</li>
+              <li ng-repeat="c in chapters | limitTo: -7" role="button" class="btn btn-default btn-lg chaps center-block clicks" ng-click="gotoChapter($index+7);"><i class="fa fa-book"></i> {{ c.title }}</li>
             </ul>
           </div>
         </div>
@@ -67,8 +67,8 @@
     </div>
     <!-- End Main Display -->
     <div class="col-md-12">
-		 <div class="buttons" ng-if="inChapter() && currentTerm > 0" ><button type="button" class="sub btn btn-primary btn-large pull-left bots" ng-click="gotoTerm(currentChapter,currentTerm,'prev');"><i class="fa fa-arrow-left"></i> PREV</button></div>
-		 <div class="buttons" ng-if="inChapter() && currentTerm < (chapters[currentChapter].terms.length -1) " ><button type="button" class="sub btn btn-primary btn-large pull-right bots" ng-click="gotoTerm(currentChapter,currentTerm,'next');">NEXT <i class="fa fa-arrow-right"></i> </button></div>
+		 <div class="buttons" ng-if="inChapter() && currentTerm > 0" ><button type="button" class="sub btn btn-default btn-large pull-left bots" ng-click="gotoTerm(currentChapter,currentTerm,'prev');"><i class="fa fa-arrow-left"></i> PREV</button></div>
+		 <div class="buttons" ng-if="inChapter() && currentTerm < (chapters[currentChapter].terms.length -1) " ><button type="button" class="sub btn btn-default btn-large pull-right bots" ng-click="gotoTerm(currentChapter,currentTerm,'next');">NEXT <i class="fa fa-arrow-right"></i> </button></div>
    </div>
   </div>
 </div>

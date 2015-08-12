@@ -1811,18 +1811,368 @@
     }]
   }, {
     "title": "Chapter 10",
-    "terms": []
+    "terms": [
+	{
+		    "id": "1",
+		    "chapter": "10",
+			"term": "Business process redesign",
+			"pronun": "biz-nis pros-es dih-zahyn",
+			"soundfile": "",
+			"definition": "Information technology innovation inherently requires careful analysis of business processes and often leads to the redesign of these processes."
+        },
+		{
+		    "id": "2",
+		    "chapter": "10",
+			"term": "Communication and culture",
+			"pronun": "kuh-myoo-ni-key-shuh n and kuhl-cher",
+			"soundfile": "",
+			"definition": "Project managers must ensure that provisions of quality and standards are clearly outlined in contracts with offshore vendors and that they align with the goals and objectives of the client. The successful delivery of information tech-nology services through offshoring cannot be overstated."
+        },
+		{
+		    "id": "3",
+		    "chapter": "10",
+			"term": "Core competency",
+			"pronun": "kawr kom-pi-tuh n-see",
+			"soundfile": "",
+			"definition": "They must spend their resources promoting the major aspects of their business."
+        },
+		{
+		    "id": "4",
+		    "chapter": "10",
+			"term": "Cost of labor",
+			"pronun": "kawst uhv ley-ber",
+			"soundfile": "",
+			"definition": "The sum of wages, salaries, and bonuses paid to employees."
+        },
+		{
+		    "id": "5",
+		    "chapter": "10",
+			"term": "Effects for the individual",
+			"pronun": "ih-fekts fawr the in-duh-vij-oo-uh l",
+			"soundfile": "",
+			"definition": "Includes career, skills, relationships, privacy, and other considerations."
+        },
+		{
+		    "id": "6",
+		    "chapter": "10",
+			"term": "Effects for the organization",
+			"pronun": "ih-fekts fawr the awr-guh-nuh-zey-shuh n",
+			"soundfile": "",
+			"definition": "Includes intelligence, knowledge, human expertise, security, and the like."
+        },
+		{
+		    "id": "7",
+		    "chapter": "10",
+			"term": "Emotional reaction to outsourcing",
+			"pronun": "ih-moh-shuh-nl ree-ak-shuh n too out-sawrs",
+			"soundfile": "",
+			"definition": "Reactions to informa-tion technology outsourcing have been extreme: some have considered it to be a panacea, others a source of all ills."
+        },
+		{
+		    "id": "8",
+		    "chapter": "10",
+			"term": "Employee morale",
+			"pronun": "em-ploi-ee muh-ral",
+			"soundfile": "",
+			"definition": "The reaction to information technology offshoring by individuals has been greater than that of outsourcing. This is despite our experience with outsourcing of information technology services that ultimately resulted in the  increased application and use of computers."
+        },
+		{
+		    "id": "9",
+		    "chapter": "10",
+			"term": "Enterprise needs analysis and testing",
+			"pronun": "en-ter-prahyz needz uh-nal-uh-sis and test-ing",
+			"soundfile": "",
+			"definition": "Information technologies that are developed by vendors outside of the organization."
+        },
+		{
+		    "id": "10",
+		    "chapter": "10",
+			"term": "Examples of offshored activities",
+			"pronun": "ig-zam-puh ls uhv awf-shawr-ed ak-tiv-i-tee-s",
+			"soundfile": "",
+			"definition": "Broadly accomplished in one of two ways. First, the client or offshoring organization sets up units in other countries and hires local talent to develop, maintain, and provide services. In this case, the company maintains responsibility for training, supervision, quality control, and the like. These responsibilities can be managed locally or remotely. Second, the client or offshoring organization contracts out services to providers on location in other countries. In this case, responsibility for hiring, training, supervision, quality control, and the like rests with the provider."
+        },
+		{
+		    "id": "11",
+		    "chapter": "10",
+			"term": "Innovation and know-how",
+			"pronun": "in-uh-vey-shuh n and noh-hou",
+			"soundfile": "",
+			"definition": "Human expertise and innovation is the greatest asset that any organization can develop and retain. Technology applications due to offshore out-sourcing of information technology services can pose the greatest risk to an organization."
+        },
+		{
+		    "id": "12",
+		    "chapter": "10",
+			"term": "Intangible costs or benefits",
+			"pronun": "in-tan-juh-buh l kawsts awr ben-uh-fits",
+			"soundfile": "",
+			"definition": "Include issues of organization, behavior, morale, social, strategy, and the like, and these require acute management skills and insight."
+        },
+		{
+		    "id": "13",
+		    "chapter": "10",
+			"term": "Job market",
+			"pronun": "job mahr-kit",
+			"soundfile": "",
+			"definition": "The adverse effect of offshore outsourcing information technology services has been primarily on the current job market. However, this effect is more complex than simply jobs leaving the US and Western Europe for other regions of the world."
+        },
+		{
+		    "id": "14",
+		    "chapter": "10",
+			"term": "Management of offshore projects",
+			"pronun": "man-ij-muh nt uhv awf-shawr proj-ekts",
+			"soundfile": "",
+			"definition": "The offshore outsourcing phenomenon has had a wide-ranging effect on the man-agement of the information technology function. The first wave of offshore outsourcing practice reduced hardware costs and in turn increased demand for software."
+        },
+		{
+		    "id": "15",
+		    "chapter": "10",
+			"term": "Management of relationships",
+			"pronun": "man-ij-muh nt uhv ri-ley-shuh n-ships",
+			"soundfile": "",
+			"definition": "Relationships between their team members and offshore service providers."
+        },
+		{
+		    "id": "16",
+		    "chapter": "10",
+			"term": "Management of relationships",
+			"pronun": "man-ij-muh nt uhv ri-ley-shuh n-ships",
+			"soundfile": "",
+			"definition": "Relationships between their team members and offshore service providers."
+        },
+		{
+		    "id": "17",
+		    "chapter": "10",
+			"term": "Negotiation and management of contracts",
+			"pronun": "ni-goh-shee-ey-shuh n and man-ij-muh nt uhv kon-trakts",
+			"soundfile": "",
+			"definition": "Many firms have their legal division draw and finalize these offshore contracts. However, project managers play a crucial role in identifying and outlining information needs for these offshore contracts."
+        },
+		{
+		    "id": "18",
+		    "chapter": "10",
+			"term": "Offshore outsourcing",
+			"pronun": "awf-shawr out-sawrs-ing",
+			"soundfile": "",
+			"definition": "Occurs when products and services are procured from locations in other countries."
+        },
+		{
+		    "id": "19",
+		    "chapter": "10",
+			"term": "Offshoring risks",
+			"pronun": "awf-shawr-ing risks",
+			"soundfile": "",
+			"definition": "Any business decision involves risks, and that risk is greater in situations when there is increased change or uncertainty. The best option is, however, not to avoid decisions or to wait and see what might happen elsewhere."
+        },
+		{
+		    "id": "20",
+		    "chapter": "10",
+			"term": "Organization intelligence",
+			"pronun": "awr-guh-nuh-zey-shuh n in-tel-i-juh ns",
+			"soundfile": "",
+			"definition": "A critical and volatile asset, particularly as it relates to activities such as new ventures and research and development."
+        },
+		{
+		    "id": "21",
+		    "chapter": "10",
+			"term": "Outsourcing",
+			"pronun": "out-sawrs-ing",
+			"soundfile": "",
+			"definition": "Occurs when information technology activities are carried out by a provider outside the organization."
+        },
+		{
+		    "id": "22",
+		    "chapter": "10",
+			"term": "Planning and integration",
+			"pronun": "plan-ing and in-ti-grey-shuh n",
+			"soundfile": "",
+			"definition": "Takes on new dimensions in offshore outsourcing practice. This may turn out to be a critical problem if the outsourcing firm reduces internal ex-pertise to the point that planning and integration of information technology services becomes dependent on outside vendors."
+        },
+		{
+		    "id": "23",
+		    "chapter": "10",
+			"term": "Public reaction to corporate citizenship",
+			"pronun": "puhb-lik ree-ak-shuh n too kawr-per-it sit-uh-zuh n-ship",
+			"soundfile": "",
+			"definition": "Public loyalty to a firm and its goods and services is influenced by how people perceive the role of a firm as a corporate citizen."
+        },
+		{
+		    "id": "24",
+		    "chapter": "10",
+			"term": "Regional instability of the host country",
+			"pronun": "ree-juh-nl in-stuh-bil-i-tee uhv the hohst kuhn-tree",
+			"soundfile": "",
+			"definition": "Another risk associated with offshore outsourc-ing practices. For example, the threat of major disruptions arising from political upheaval or war in an offshore host country could pose a major risk to service continuity."
+        },
+		{
+		    "id": "25",
+		    "chapter": "10",
+			"term": "Risk assessment and management",
+			"pronun": "risk uh-ses-muh nt and man-ij-muh nt",
+			"soundfile": "",
+			"definition": "For example, risks associated with local politics, natural disaster, and communication and network infrastructure in offshore locations are more difficult to assess and manage. Project managers must plan for disaster recovery and back up provisions in locations outside the vendor country."
+        },
+		{
+		    "id": "26",
+		    "chapter": "10",
+			"term": "Security and privacy",
+			"pronun": "si-kyoo r-i-tee and prahy-vuh-see",
+			"soundfile": "",
+			"definition": "Continues to be an important issue for the individual and organization. Issues of security and privacy have assumed greater importance in recent years on priority lists of information technology executives and project managers."
+        },
+		{
+		    "id": "27",
+		    "chapter": "10",
+			"term": "Tangible transaction cost",
+			"pronun": "tan-juh-buh l tran-sak-shuh n kawst",
+			"soundfile": "",
+			"definition": "Economics of offshore outsourcing is more readily mea-sured by economics and cost accounting models."
+        },
+		{
+		    "id": "28",
+		    "chapter": "10",
+			"term": "Transaction cost economics",
+			"pronun": "tran-sak-shuh n kawst ek-uh-nom-iks",
+			"soundfile": "",
+			"definition": "The offshore outsourcing of information technology activities."
+        }
+	]
   }, {
     "title": "Chapter 11",
-    "terms": []
+    "terms": [  {
+		    "id": "1",
+		    "chapter": "11",
+			"term": "80-20 law",
+			"pronun": "ey-tee-twen-tee law",
+			"soundfile": "",
+			"definition": "In the case of the newly installed information system, the project manager must focus remedial efforts on making the system easier to use and to improving the interface since these two problem areas account for the majority of the complaints."
+        },
+	    {
+		    "id": "2",
+		    "chapter": "11",
+			"term": "Benchmarking",
+			"pronun": "bench-mahrk-ing",
+			"soundfile": "",
+			"definition": "Happens when the project manager uses a standard (a case) as a guide and compares productivity, accuracy, timeliness, cost, and other indicators of quality with that standard."
+        },
+		{
+		    "id": "3",
+		    "chapter": "11",
+			"term": "Capability maturity model (CMM)",
+			"pronun": "key-puh-bil-i-tee muh-choo r-i-tee mod-l",
+			"soundfile": "",
+			"definition": "Refers to the maturity of the organization that produces the product."
+        },
+		{
+		    "id": "4",
+		    "chapter": "11",
+			"term": "Confidence factor",
+			"pronun": "kon-fi-duh ns fak-ter",
+			"soundfile": "",
+			"definition": "The z value."
+        },
+		{
+		    "id": "5",
+		    "chapter": "11",
+			"term": "Critical success factor",
+			"pronun": "krit-i-kuh l suh k-ses fak-ter",
+			"soundfile": "",
+			"definition": "Project managers have sig-nificantly increased their attention to quality. Sponsors of projects expect to see quality control as part of the project development plans."
+        },
+		{
+		    "id": "6",
+		    "chapter": "11",
+			"term": "Crosby, philip",
+			"pronun": "krawz-bee, fil-ip",
+			"soundfile": "",
+			"definition": "Argues that what costs organizations is the lack of quality not the cost of quality."
+        },
+		{
+		    "id": "7",
+		    "chapter": "11",
+			"term": "Deming, edward",
+			"pronun": "Dem-ing, ed-word",
+			"soundfile": "",
+			"definition": "One of the founders of the quality management principle. He was highly influential in helping the Japanese build quality into their products."
+        },
+		{
+		    "id": "8",
+		    "chapter": "11",
+			"term": "Error factor",
+			"pronun": "er-er fak-ter",
+			"soundfile": "",
+			"definition": "Prepared to tolerate can be determined by creating a range about the mean."
+        },
+		{
+		    "id": "9",
+		    "chapter": "11",
+			"term": "Fish-bone diagram",
+			"pronun": "fish-bohn dahy-uh-gram",
+			"soundfile": "",
+			"definition": "Helps to identify the source of quality prob-lems. It is called a fish-bone diagram because entities that influence quality are connected in a way that resembles the skeleton of a fish. This method is also called a cause-and-effect diagram because it helps link quality problems with the responsible sources."
+        },
+		{
+		    "id": "10",
+		    "chapter": "11",
+			"term": "Ishikawa, Kaoru",
+			"pronun": "Ish-i-kawah, kah-o-ruh",
+			"soundfile": "",
+			"definition": "Proposed the fish-bone diagram that describes the cause-and-effect relationship between quality problems and responsible units."
+        },
+		{
+		    "id": "11",
+		    "chapter": "11",
+			"term": "ISO 14000",
+			"pronun": "ahy-soh fawr-teen thou-zuh nd",
+			"soundfile": "",
+			"definition": "Specifically deals with the five areas of environ-mental management, auditing, performance evaluation, labeling, and life-cycle assessment."
+        },
+		{
+		    "id": "12",
+		    "chapter": "11",
+			"term": "ISO 9000",
+			"pronun": "ahy-soh nahyn thou-zuh nd",
+			"soundfile": "",
+			"definition": "To facilitate international trade by provid-ing a single set of standards that is recognized and respected by all countries. ISO 9000 is increas-ingly recognized as the most important quality standard worldwide. Over one hundred countries have adopted ISO 9000. This standard is applied to all types of products and services and is used by large and small firms as well as public and private ones."
+        },
+		{
+		    "id": "13",
+		    "chapter": "11",
+			"term": "Juran, Joseph M.",
+			"pronun": "Juran, Jo-seph, em",
+			"soundfile": "",
+			"definition": "Believed in top management involvement in quality management and implementation. He argued that management must continuously seek quality and ways of rewarding adherence to quality standards."
+        },
+		{
+		    "id": "14",
+		    "chapter": "11",
+			"term": "Level of confidence",
+			"pronun": "lev-uh l uhv kon-fi-duh ns",
+			"soundfile": "",
+			"definition": "Frequently used corresponds to 1, 2, or 3 standard deviations about the mean. Standard deviations of 1, 2, and 3 cover 90%, 95%, and 99.7% of the area under the normal distribution curve, respectively. The higher the confidence level, the greater the areas under the normal distribution curve."
+        },
+		{
+		    "id": "15",
+		    "chapter": "11",
+			"term": "Pareto charts",
+			"pronun": "pah-re-taw chahrt",
+			"soundfile": "",
+			"definition": "Diagrams are useful in organizing and prioritizing problem areas. A nine-teenth century economist, Vilfredo Pareto, developed these charts."
+        },
+		{
+		    "id": "16",
+		    "chapter": "11",
+			"term": "Pareto charts",
+			"pronun": "pah-re-taw chahrt",
+			"soundfile": "",
+			"definition": "Diagrams are useful in organizing and prioritizing problem areas. A nine-teenth century economist, Vilfredo Pareto, developed these charts."
+        }
+	]
   }, {
     "title": "Chapter 12",
     "terms": []
   }, {
     "title": "Chapter 13",
-    "terms": []
-  }, {
-    "title": "Chapter 14",
     "terms": []
   }]
 }

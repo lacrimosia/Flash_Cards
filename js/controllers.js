@@ -111,7 +111,7 @@ angular.module('FlashCards.controllers', ['ngAria'])
     $rootScope.currentChapter = chapterIndex;
     $scope.chapters[$rootScope.currentChapter].open = true;
     $state.go('home.option');
-  }
+  };
 })
 
 .controller('OptionCtrl', function($rootScope, $scope, $state, $stateParams) {
@@ -132,10 +132,13 @@ angular.module('FlashCards.controllers', ['ngAria'])
   $rootScope.currentState = $state.current.name;
   $rootScope.currentChapter = $stateParams.chapter;
   $rootScope.currentTerm = $stateParams.term;
+  $scope.responsiveVoice = responsiveVoice;
+
 })
 
 .controller('ReviewCtrl', function($rootScope, $scope, $state, $stateParams) {
   $rootScope.currentState = $state.current.name;
   $rootScope.currentChapter = $stateParams.chapter;
   $rootScope.currentTerm = $stateParams.term;
+  $scope.responsiveVoice = responsiveVoice;
 });
