@@ -12,14 +12,14 @@
 					</div>
 					<!--end 12 pronunciation-->
 
-					<div class="col-md-5" ng-hide="showDetails">
-		        <img src="img/audio.png" class="pull-right" ng-click="responsiveVoice.speak(chapters[currentChapter].terms[currentTerm].term, 'UK English Male', {rate: 1 })" data-toggle="tooltip" data-placement="top" tooltip="Listen to pronunciation" />
-		      </div>
+			<div class="col-md-6" ng-hide="showDetails">
+		        <img src="img/audio.png" class="img-responsive pull-right"  ng-click="responsiveVoice.speak(chapters[currentChapter].terms[currentTerm].term, 'UK English Male', {rate: 1 })" data-toggle="tooltip" data-placement="top" tooltip="Listen to pronunciation" />
+		    </div>
+			<div class="col-md-6">
+				<h1 class="pronuc_word pull-left">{{ chapters[currentChapter].terms[currentTerm].pronun }}</h1>
+			</div><!--end 9-->
 		      <!--end 6-->
-		      <div class="col-md-7" ng-hide="showDetails">
-		        <h1 class="pronuc_word">{{ chapters[currentChapter].terms[currentTerm].pronun }}</h1>
-		      </div>
-					<!--end 6-->
+			  
 					<hr/>
 					<div class="col-md-12">
 						<h4>Definition:</h4>

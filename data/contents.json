@@ -1933,14 +1933,6 @@
 			"definition": "Relationships between their team members and offshore service providers."
         },
 		{
-		    "id": "16",
-		    "chapter": "10",
-			"term": "Management of relationships",
-			"pronun": "man-ij-muh nt uhv ri-ley-shuh n-ships",
-			"soundfile": "",
-			"definition": "Relationships between their team members and offshore service providers."
-        },
-		{
 		    "id": "17",
 		    "chapter": "10",
 			"term": "Negotiation and management of contracts",
@@ -2165,12 +2157,397 @@
 			"term": "Pareto charts",
 			"pronun": "pah-re-taw chahrt",
 			"soundfile": "",
-			"definition": "Diagrams are useful in organizing and prioritizing problem areas. A nine-teenth century economist, Vilfredo Pareto, developed these charts."
+			"definition": "Diagrams are useful in organizing and prioritizing problem areas. A nineteenth century economist, Vilfredo Pareto, developed these charts. As quality management tools, these charts readily identify problems that have the greatest effect on the success of a project. Juran suggests that 80% of problems stem from 20% of the possible sources."
+        },
+		{
+		    "id": "17",
+		    "chapter": "11",
+			"term": "Pareto optimum",
+			"pronun": "pah-re-taw op-tuh-muh m",
+			"soundfile": "",
+			"definition": "This tally of user complaints suggests that nearly 74% of the problems are caused by either system interface or ease of use aspects. In the case of the newly installed information system, the project manager must focus remedial efforts on making the system easier to use and to improving the interface since these two problem areas account for the majority of the complaints."
+        },
+		{
+		    "id": "18",
+		    "chapter": "11",
+			"term": "Principles of quality management",
+			"pronun": "prin-suh-puh l uhv kwol-i-tee man-ij-muh nt",
+			"soundfile": "",
+			"definition": "Provide leadership for quality control, start at design phase, make it part of the process, keep it continuous, empower team members to manage quality, train team members for quality control and assessment, reward teams for quality performance,  and promote free and open communication."
+        },
+		{
+		    "id": "19",
+		    "chapter": "11",
+			"term": "Product quality advantages",
+			"pronun": "prod-uh kt kwol-i-tee ad-van-tij-es",
+			"soundfile": "",
+			"definition": "The totality of features and characteristics of a product or service that bears on its ability to satisfy stated or implied needs. Ideally, one would like to define and measure quality in terms of the product outcomes as perceived by the user. That means different groups will define quality differently."
+        },
+		{
+		    "id": "20",
+		    "chapter": "11",
+			"term": "Qualitative analysis",
+			"pronun": "kwol-i-tey-tiv uh-nal-uh-sis",
+			"soundfile": "",
+			"definition": "Relies primarily on the analysis of intangible and subjective factors. A case study might be an example of a qualitative approach."
+        },
+		{
+		    "id": "21",
+		    "chapter": "11",
+			"term": "Quality",
+			"pronun": "kwol-i-tee",
+			"soundfile": "",
+			"definition": "The totality of features and characteristics of a product or service that bears on its ability to satisfy stated or implied needs."
+        },
+		{
+		    "id": "22",
+		    "chapter": "11",
+			"term": "Quality control charts",
+			"pronun": "kwol-i-tee kuh n-trohl chahrts",
+			"soundfile": "",
+			"definition": "Helps project managers to see the pattern of change in product quality. These charts describe occurrences rather than detect quality problems and therefore help the project manager control for quality."
+        },
+		{
+		    "id": "23",
+		    "chapter": "11",
+			"term": "Quality costs",
+			"pronun": "kwol-i-tee kawsts",
+			"soundfile": "",
+			"definition": "Achieving quality does cost the organization in a number of ways. Some costs are for prevention; the cost of planning for quality throughout the project life cycle to ensure that the end product meets acceptable standards. Some costs are for evaluation; the cost of testing and evaluating the product and the processes throughout the project life cycle."
+        },
+		{
+		    "id": "24",
+		    "chapter": "11",
+			"term": "Quality criteria",
+			"pronun": "kwol-i-tee krahy-teer-ee-uh",
+			"soundfile": "",
+			"definition": "It is developed in accordance with a written or stated specifications, it meets industry standards, it includes characteristics that correspond to user needs, it is user friendly and can be used effectively by user groups, it provides users with accurate output, it is robust and reliable, and it is compatible and easy to integrate with related products."
+        },
+		{
+		    "id": "25",
+		    "chapter": "11",
+			"term": "Quality management",
+			"pronun": "kwol-i-tee man-ij-muh nt",
+			"soundfile": "",
+			"definition": "Is primarily a management issue. If management does not believe in and support quality, it is unlikely that others within the organization will. But quality management must be planned for, implemented, and monitored."
+        },
+		{
+		    "id": "26",
+		    "chapter": "11",
+			"term": "Quality pioneers",
+			"pronun": "kwol-i-tee pahy-uh-neers",
+			"soundfile": "",
+			"definition": "Have provided practical guidelines that can help project managers."
+        },
+		{
+		    "id": "27",
+		    "chapter": "11",
+			"term": "Quality planning",
+			"pronun": "kwol-i-tee plan-ing",
+			"soundfile": "",
+			"definition": "Quality should be planned for and not seen as an afterthought. Project managers need to identify the attributes of the project that relate to quality so that the quality standards for these attributes can be measured conveniently when the project is up and running. Discussions with the stakeholders will have identified particular attributes of the project output that are seen as key features."
+        },
+		{
+		    "id": "28",
+		    "chapter": "11",
+			"term": "Quality standards",
+			"pronun": "kwol-i-tee stan-derds",
+			"soundfile": "",
+			"definition": "Supported by all management, planned for during the design phase, understood and followed by all stakeholders, especially project team members, monitored continuously throughout the project development life cycle, and documented for accountability and reference."
+        },
+		{
+		    "id": "29",
+		    "chapter": "11",
+			"term": "Quantitative analysis",
+			"pronun": "kwon-ti-tey-tiv uh-nal-uh-sis",
+			"soundfile": "",
+			"definition": "Involves data analysis."
+        },
+		{
+		    "id": "30",
+		    "chapter": "11",
+			"term": "Sample size",
+			"pronun": "sam-puh l sahyz",
+			"soundfile": "",
+			"definition": "The reliability of data analysis results also depends on the sample size. A sample size that is too large will be more costly and time consuming. A sample size that is too small may result in inaccuracy."
+        },
+		{
+		    "id": "31",
+		    "chapter": "11",
+			"term": "Seven run rule",
+			"pronun": "sev-uh n run rool",
+			"soundfile": "",
+			"definition": "Suggests that if events happen in the same direction (upward or downward) for seven times in a row then there is a problem."
+        },
+		{
+		    "id": "32",
+		    "chapter": "11",
+			"term": "Standard deviation",
+			"pronun": "stan-derd dee-vee-ey-shuh n",
+			"soundfile": "",
+			"definition": "n =  sample standard deviation x (confidence level/error factor) ^2 OR  n = [(z x s)/e] 2. n is the sample size, z is the z score associated with the confidence level, s is the standard deviation of the sample, and e is the error factor."
+        },
+		{
+		    "id": "33",
+		    "chapter": "11",
+			"term": "Statistical quality control",
+			"pronun": "stuh-tis-ti-kuh l kwol-i-tee kuh n-trohl",
+			"soundfile": "",
+			"definition": "Based on the analysis of data that are collected about specific situations. Statistical quality control is frequently used to set standards as well as detect and correct errors in product development."
+        },
+		{
+		    "id": "34",
+		    "chapter": "11",
+			"term": "System reliability",
+			"pronun": "sis-tuh m ri-lahy-uh-bil-i-tee",
+			"soundfile": "",
+			"definition": "Determining whether the system is as reliable."
+        },
+		{
+		    "id": "35",
+		    "chapter": "11",
+			"term": "Taguchi, Genichi",
+			"pronun": "tah-goo-chee, Gin-nee-chee",
+			"soundfile": "",
+			"definition": "Believed that quality should be considered in the design of a product and must be part of the process of product development."
+        },
+		{
+		    "id": "36",
+		    "chapter": "11",
+			"term": "Testing",
+			"pronun": "test-ing",
+			"soundfile": "",
+			"definition": "Should be done during almost every phase of the product development life cycle. There are different levels of testing. For example in software development, a unit test is done to test each individual program module to ensure it is free of bugs; integration testing is necessary to test how well a group of programs are integrated and how well they work as an integrated system; system testing is an overall system test for all components included; and user acceptance tests how well potential users in the organization perceive and accept the new system."
         }
 	]
   }, {
     "title": "Chapter 12",
-    "terms": []
+    "terms": [
+	    {
+		    "id": "1",
+		    "chapter": "12",
+			"term": "Business ethos failure",
+			"pronun": "biz-nis ee-thos feyl-yer",
+			"soundfile": "",
+			"definition": "This type of failure is defined as the inability of a project to meet requirements because of organizational culture. This may reveal itself, for example, in the lack of standards, such as an audit, a development methodology, formal documentation, and specifications."
+        },
+		{
+		    "id": "2",
+		    "chapter": "12",
+			"term": "Business knowledge",
+			"pronun": "biz-nis ee-thos nol-ij",
+			"soundfile": "",
+			"definition": "Business knowledge and understanding is another critical success factor for projects. There are at least two perspectives for this business knowledge. The first perspective relates to the understanding of what the business is about, what the organizational mission is, and what its goals and objectives are. The second perspective relates to the understanding of the organizational culture and processes."
+       },
+	   {
+		    "id": "3",
+		    "chapter": "12",
+			"term": "Client involvement",
+			"pronun": "klahy-uh nt in-volv-ment",
+			"soundfile": "",
+			"definition": "Client involvement in the design and development of projects is considered one of the essential principles of effective project development. Clients must be involved in all phases, especially during the specification and design phases of the project."
+       },
+	   {
+		    "id": "4",
+		    "chapter": "12",
+			"term": "Client satisfaction",
+			"pronun": "klahy-uh nt sat-is-fak-shuh n",
+			"soundfile": "",
+			"definition": "Client assessments of projects have been a popular surrogate measure of project effectiveness for some time, and client satisfaction derives from a match between the perceived importance of the factors assessed and the project’s outcome on these factors. The assessments cover a variety of subjects, ranging from opinions of individual benefits to direct perceptions of project effectiveness and value."
+       },
+	   {
+		    "id": "5",
+		    "chapter": "12",
+			"term": "Consensus participation",
+			"pronun": "kuh n-sen-suh s pahr-tis-uh-pey-shuh n",
+			"soundfile": "",
+			"definition": "Attempts to involve all clients throughout the design process, indeed this process is client driven. It may be more difficult to make quick decisions, but this form of participation has the merit of making the design decisions those of the clients as a whole. Sometimes the sets of tasks in a project can be distinguished and those people involved in each task-set make their own design recommendations."
+       },
+	   {
+		    "id": "6",
+		    "chapter": "12",
+			"term": "Consultative participation",
+			"pronun": "kuh n-suhl-tuh-tiv pahr-tis-uh-pey-shuh n",
+			"soundfile": "",
+			"definition": "The lowest level of participation and leaves the main design tasks to the technologists, but it tries to ensure that all clients are consulted about the change. The project managers are encouraged to provide opportunities for increasing satisfaction when designing the project. It may be possible to organize the clients into groups to discuss aspects of the new project and make suggestions."
+       },
+	   {
+		    "id": "7",
+		    "chapter": "12",
+			"term": "Correspondence failure",
+			"pronun": "kawr-uh-spon-duh ns feyl-yer",
+			"soundfile": "",
+			"definition": "This is based on the idea that design objectives are first specified in detail and then an evaluation is conducted of the project in terms of these objectives. If there is a lack of correspondence between management objectives and the evaluation, the project can be regarded as a failure."
+       },
+	   {
+		    "id": "8",
+		    "chapter": "12",
+			"term": "Critical success factors",
+			"pronun": "krit-i-kuh l suh k-ses fak-ters",
+			"soundfile": "",
+			"definition": "A term for an element that is necessary for an organization or project to achieve its mission. It is a critical factor or activity required for ensuring the success of a company or an organization."
+       },
+	   {
+		    "id": "9",
+		    "chapter": "12",
+			"term": "Evaluating projects",
+			"pronun": "ih-val-yoo-eyt proj-ekts",
+			"soundfile": "",
+			"definition": "One of the concerns we have is that managers often take a too narrow view of costs and benefits. The risk is that managers rely on the measurable to make (or break) the case for and against a project because otherwise it is seen as a nebulous decision – one based more on total guesswork than hard fact."
+       },
+	   {
+		    "id": "10",
+		    "chapter": "12",
+			"term": "Expectation failure",
+			"pronun": "ek-spek-tey-shuh n feyl-yer",
+			"soundfile": "",
+			"definition": "The inability of a project outcome to meet a specific stakeholder group’s expectations. Failure, in this case, signifies a gap between some existing situation and a desired situation for members of a particular stakeholder group."
+       },
+	   {
+		    "id": "11",
+		    "chapter": "12",
+			"term": "Failure events",
+			"pronun": "feyl-yer ih-vents",
+			"soundfile": "",
+			"definition": "Depending on the circumstances, some project failures may be more acceptable than others. For example, some projects are mission critical so the project manager can go slightly over budget to make sure it is done in time. The tradeoff here between extra cost and reduced time depends on organizational needs and management assessment. Having the new project up and running one week ahead of schedule may be worth a lot more than the additional cost associated with quicker delivery."
+       },
+	   {
+		    "id": "12",
+		    "chapter": "12",
+			"term": "Five factors of client satisfaction",
+			"pronun": "fahyv fak-ters uhv klahy-uh nt sat-is-fak-shuh n",
+			"soundfile": "",
+			"definition": "More than one measure is used to capture client beliefs about each factor. These factors collectively reflect the overall client satisfaction with a specific system. A 5-point scale is also recommended for these measures that ranges from not at all (1) to a great deal (5). This instrument could be a useful tool for project managers in assessing client satisfaction with the resultant product. Mean scores of responses to these questions will provide the extent of satisfaction. This instrument is also helpful in determining areas of strengths and weaknesses for the system."
+       },
+	   {
+		    "id": "13",
+		    "chapter": "12",
+			"term": "Flexibility",
+			"pronun": "flek-suh-bil-ity",
+			"soundfile": "",
+			"definition": "This is variously used to describe the inherent properties of a project, the nature of a change or implementation process, or a property of the project strategy."
+       },
+	   {
+		    "id": "14",
+		    "chapter": "12",
+			"term": "Focus groups",
+			"pronun": "foh-kuh s groops",
+			"soundfile": "",
+			"definition": "These do give an opportunity to develop concerns in more depth, though the project manager needs to be aware of the possibility of group-think, where all participants attempt to give the impression of a consistent view (which may not truly be held by all), or the domination of powerful participants (based on position in the hierarchy or other factors)."
+       },
+	   {
+		    "id": "15",
+		    "chapter": "12",
+			"term": "Interaction failure",
+			"pronun": "in-ter-ak-shuh n feyl-yer",
+			"soundfile": "",
+			"definition": "Here, the emphasis shifts, from a mismatch of requirements and the project or poor development performance, to a consideration of usage of a system. The argument is that if a project is heavily used, then it constitutes a success; if it is hardly ever used, or there are major problems involved in using the system, then it constitutes a failure."
+       },
+	   {
+		    "id": "16",
+		    "chapter": "12",
+			"term": "Involvement deprivation",
+			"pronun": "in-volv-ment dep-ruh-vey-shuh n",
+			"soundfile": "",
+			"definition": "This occurs when an individual’s involvement substantially exceeds perceived involvement and the client develops a sense of alienation."
+       },
+	   {
+		    "id": "17",
+		    "chapter": "12",
+			"term": "Involvement deprivation",
+			"pronun": "in-volv-ment dep-ruh-vey-shuh n",
+			"soundfile": "",
+			"definition": "This occurs when an individual’s involvement substantially exceeds perceived involvement and the client develops a sense of alienation."
+       },
+	   {
+		    "id": "18",
+		    "chapter": "12",
+			"term": "Involvement episodes",
+			"pronun": "in-volv-ment ep-uh-sohds",
+			"soundfile": "",
+			"definition": "Involvement equilibrium, Involvement saturation, and Involvement deprivation."
+       },
+	   {
+		    "id": "19",
+		    "chapter": "12",
+			"term": "Involvement equilibrium",
+			"pronun": "in-volv-ment ee-kwuh-lib-ree-uh m",
+			"soundfile": "",
+			"definition": "This situation exists where perceived involvement equals (or roughly corresponds) to the level of desired involvement. Thus, in this situation there is congruence between how much the client wants to be involved and the extent to which the client is required to be involved."
+       },
+	   {
+		    "id": "20",
+		    "chapter": "12",
+			"term": "Involvement saturation",
+			"pronun": "in-volv-ment sach-uh-rey-shuh n",
+			"soundfile": "",
+			"definition": "This occurs when an individual’s perceived involvement exceeds desired involvement and the client’s frame of reference regarding the value of involvement is altered."
+       },
+	   {
+		    "id": "21",
+		    "chapter": "12",
+			"term": "Levels of participation",
+			"pronun": "lev-uh ls uhv pahr-tis-uh-pey-shuh n",
+			"soundfile": "",
+			"definition": "Consultative participation, Representative participation, and Consensus participation."
+       },
+	   {
+		    "id": "22",
+		    "chapter": "12",
+			"term": "Management of changes in requirements",
+			"pronun": "man-ij-muh nt uhv cheynj-es en ri-kwahyuh r-muh nts",
+			"soundfile": "",
+			"definition": "Managing changes in requirements is also an important success factor for projects. Such change can also alter outcome expectations. Some changes can be significant and, as a result, can alter the overall project outcome."
+       },
+	   {
+		    "id": "23",
+		    "chapter": "12",
+			"term": "Measures of effectiveness",
+			"pronun": "mezh-ers uhv ih-fek-tiv-nis",
+			"soundfile": "",
+			"definition": "A discussion of effectiveness implies that a project is expected to have some desired outcome outside of itself."
+       },
+	   {
+		    "id": "24",
+		    "chapter": "12",
+			"term": "Measures of impact and usefulness",
+			"pronun": "mezh-ers uhv im-pakt and yoos-fuh l-nis",
+			"soundfile": "",
+			"definition": "Through perspectives of task productivity, task innovation, customer satisfaction, and management control."
+       },
+	   {
+		    "id": "25",
+		    "chapter": "12",
+			"term": "Objectives",
+			"pronun": "uh b-jek-tivs",
+			"soundfile": "",
+			"definition": "Assessment based on the extent to which the project satisfies its objectives has been widely accepted as a means of measuring effectiveness. The setting of detailed objectives and attainment targets for a wide range of aspects of a project is central to this approach and must be planned well in advance."
+       },
+	   {
+		    "id": "26",
+		    "chapter": "12",
+			"term": "Perceived impact",
+			"pronun": "per-seev im-pakt",
+			"soundfile": "",
+			"definition": "Executives are incresingly required to justify investment in terms of its impact on and usefulness for the individual and his or her work. This perspective goes beyond design features to evaluate benefits in terms of outcome. The success of projects from this perspective is measured through the impact on work at the level of the individual. Organizations that spend millions of dollars on projects are primarily concerned about how their investment will influence organizational and individual performance."
+       },
+	   {
+		    "id": "27",
+		    "chapter": "12",
+			"term": "Post-implementation studies",
+			"pronun": "pohst-im-pluh-muh n-tey-shuh n stuhd-ees",
+			"soundfile": "",
+			"definition": "Often confined to monitoring costs and performance, and feasibility decisions can be based on cost-justification, but as we have seen, the scope of an evaluation can be much wider than this."
+       },
+	   {
+		    "id": "28",
+		    "chapter": "12",
+			"term": "Potential causes for project failure",
+			"pronun": "puh-ten-shuh l kawz-es fawr proj-ekt feyl-yer",
+			"soundfile": "",
+			"definition": "Often confined to monitoring costs and performance, and feasibility decisions can be based on cost-justification, but as we have seen, the scope of an evaluation can be much wider than this."
+       }
+	]
   }, {
     "title": "Chapter 13",
     "terms": []
