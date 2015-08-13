@@ -12,10 +12,10 @@
 					</div>
 					<!--end 12 pronunciation-->
 
-			<div class="col-md-6" ng-hide="showDetails">
-		        <img src="img/audio.png" class="img-responsive pull-right"  ng-click="responsiveVoice.speak(chapters[currentChapter].terms[currentTerm].term, 'UK English Male', {rate: 1 })" data-toggle="tooltip" data-placement="top" tooltip="Listen to pronunciation" />
+			<div class="col-md-4" ng-hide="showDetails">
+		        <img src="img/audio.png" class="img-responsive pull-right"  ng-click="responsiveVoice.speak(chapters[currentChapter].terms[currentTerm].term, 'UK English Male', {rate: 1 })" data-toggle="tooltip" data-placement="top" tooltip="Click to listen to pronunciation" />
 		    </div>
-			<div class="col-md-6">
+			<div class="col-md-8">
 				<h1 class="pronuc_word pull-left">{{ chapters[currentChapter].terms[currentTerm].pronun }}</h1>
 			</div><!--end 9-->
 		      <!--end 6-->

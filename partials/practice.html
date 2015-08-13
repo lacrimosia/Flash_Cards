@@ -13,10 +13,10 @@
       </div>
       <!--end 12-->
 
-          <div class="col-md-6" ng-hide="showDetails">
-		        <img src="img/audio.png" class="img-responsive pull-right"  ng-click="responsiveVoice.speak(chapters[currentChapter].terms[currentTerm].term, 'UK English Male', {rate: 1 })" data-toggle="tooltip" data-placement="top" tooltip="Listen to pronunciation" />
+          <div class="col-md-4" ng-hide="showDetails">
+		        <img src="img/audio.png" class="img-responsive pull-right"  ng-click="responsiveVoice.speak(chapters[currentChapter].terms[currentTerm].term, 'UK English Male', {rate: 1 })" data-toggle="tooltip" data-placement="top" tooltip="Click to listen to pronunciation" />
 		    </div>
-			<div class="col-md-6">
+			<div class="col-md-8" ng-hide="showDetails">
 				<h1 class="pronuc_word pull-left">{{ chapters[currentChapter].terms[currentTerm].pronun }}</h1>
 			</div><!--end 9-->
 
@@ -31,7 +31,7 @@
           <textarea class="form-control" rows="3" ng-model="userAnswers"></textarea>
         </div>
         <div class="form-group">
-          <button type="button" class="btn btn-default btn-lg center-block clicks" ng-click="showDetails = ! showDetails">View Answer</button>
+          <button type="button" class="btn btn-default btn-lg center-block clicks" ng-click="showDetails = ! showDetails"><i class="fa fa-check"></i> View Answer</button>
         </div>
       </div>
       <!--end the user area-->
@@ -55,7 +55,7 @@
 
         <div class="col-md-12">
           <div class="form-group">
-            <button type="button" class="btn btn-default btn-lg center-block clicks" ng-click="showDetails = ! showDetails">Try Again</button>
+            <button type="button" class="btn btn-default btn-lg center-block clicks" ng-click="showDetails = ! showDetails"><i class="fa fa-refresh"></i> Try Again</button>
           </div>
         </div>
         <!--end 12 for button-->

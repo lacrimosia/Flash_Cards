@@ -204,7 +204,7 @@
       "term": "Four types of organizations",
       "pronun": "fohr tahyps uhv  awr-guh-nuh-zey-shuh ns",
       "soundfile": "",
-      "definition": "See definition"
+      "definition": "Charles Handy suggests that there are four types of organizations. In those where power is centralized, the project manager needs a member of the power base to sponsor or champion the project. In a bureaucratic structure, it will be difficult to effect the change without following the rules and norms of that organization. Some organizations are more individualistic, and consensus is needed. Change is likely to be easiest to implement in organizations where project teams work on tasks as the norm."
     }, {
       "id": "6",
       "chapter": "2",
@@ -2545,11 +2545,260 @@
 			"term": "Potential causes for project failure",
 			"pronun": "puh-ten-shuh l kawz-es fawr proj-ekt feyl-yer",
 			"soundfile": "",
-			"definition": "Often confined to monitoring costs and performance, and feasibility decisions can be based on cost-justification, but as we have seen, the scope of an evaluation can be much wider than this."
+			"definition": "Some projects fail simply because human expertise does not match project complexity. As the number of phases in a project increases, so does the complexity of the project and its developmental activities. Large projects involve complex testing that requires metrics for all possible test conditions. Testing by itself may become a major task. Even if a solution is correct, it must be demonstrated that it is correct; that is not always easy."
+       },
+	   {
+		    "id": "29",
+		    "chapter": "12",
+			"term": "Pre-development evaluation",
+			"pronun": "pree-dih-vel-uh p-muh nt ih-val-yoo-ey-shuh n",
+			"soundfile": "",
+			"definition": "Takes two forms: as planning for projects and as a feasibility study. Planning aims to ensure that project provision supports the objectives and needs of the business. It includes some form of project selection process to identify the most suitable projects for development in terms of organizational objectives."
+       },
+	   {
+		    "id": "30",
+		    "chapter": "12",
+			"term": "Process failure",
+			"pronun": "pros-es feyl-yer",
+			"soundfile": "",
+			"definition": "This type of failure is characterized by unsatisfactory development performance. It may occur, for example, when a technology project cannot produce a workable system or when the development process produces a system, but the project runs over budget in terms of cost or time."
+       },
+	   {
+		    "id": "31",
+		    "chapter": "12",
+			"term": "Project failure",
+			"pronun": "proj-ekt feyl-yer",
+			"soundfile": "",
+			"definition": "Is rarely attributed to a single factor; often several factors interact and cause a project to fail. Some projects fail so badly that the company goes out of business. Some projects fail and hardly anyone in the organization notices it. In most cases projects are successful in some aspects and fail in other parts."
+       },
+	   {
+		    "id": "32",
+		    "chapter": "12",
+			"term": "Representative participation",
+			"pronun": "rep-ri-zen-tuh-tiv pahr-tis-uh-pey-shuh n",
+			"soundfile": "",
+			"definition": "Requires a higher level of involvement of clients. Here, the design group consists of client representatives, the project team, and project manager. Clients have an equal say in any requirement specification. It is to be hoped that the representatives chosen do indeed represent the interests of all the clients affected by the new project."
+       },
+	   {
+		    "id": "33",
+		    "chapter": "12",
+			"term": "Standards",
+			"pronun": "stan-derds",
+			"soundfile": "",
+			"definition": "This quality view is based on the achievement of satisfactory standards, as opposed to the attainment of objectives. Standards are set to ensure quality, but they vary in type."
+       },
+	   {
+		    "id": "34",
+		    "chapter": "12",
+			"term": "Structured walkthrough",
+			"pronun": "struhk-cherd wawk-throo",
+			"soundfile": "",
+			"definition": "This is a formal review of aspects of the project, and can be held at various stages of the life cycle. Structured walkthroughs are intended to be team-based reviews of a product, but are not intended to be management reviews of individuals or their performance."
+       },
+	   {
+		    "id": "35",
+		    "chapter": "12",
+			"term": "Success and failure factors",
+			"pronun": "suh k-ses and feyl-yer fak-ters",
+			"soundfile": "",
+			"definition": "Can be due to numerous criteria and are frequently due to a fortunate or unfortunate combination of them."
+       },
+	   {
+		    "id": "36",
+		    "chapter": "12",
+			"term": "Two perspectives for evaluating projects",
+			"pronun": "too per-spek-tivs fawr ih-val-yoo-eyt-ing proj-ekts",
+			"soundfile": "",
+			"definition": "The first perspective calls for evaluating projects relative to defined specifications or client expectations. The second perspective calls for performance-related evaluations and focuses on processes and activities."
+       },
+	   {
+		    "id": "37",
+		    "chapter": "12",
+			"term": "Utility",
+			"pronun": "yoo-til-i-tee",
+			"soundfile": "",
+			"definition": "The concept of utility is taken from decision theory, where it represents subjective assessments of worth to stakeholders. Techniques such as hierarchies of weighted criteria and summing the results have been used. But this cannot take into account the value of different combinations of criteria. One approach to overcome the problem allows the stakeholder to consider the utility value of each option, making any trade-offs between criteria."
        }
 	]
   }, {
     "title": "Chapter 13",
-    "terms": []
+    "terms": [
+	    {
+		    "id": "1",
+		    "chapter": "13",
+			"term": "Accounts closure",
+			"pronun": "uh-kounts kloh-zher",
+			"soundfile": "",
+			"definition": "Most projects involve contracts with outside vendors, partners, professionals, temporary workers, and the like. These accounts must be properly closed and contracting parties duly informed. This includes closing of accounts for the individuals and professionals who are hired for the duration of the project."
+       },
+	   {
+		    "id": "2",
+		    "chapter": "13",
+			"term": "Acknowledgements and awards",
+			"pronun": "ak-nol-ij-muh nts and uh-wawrds",
+			"soundfile": "",
+			"definition": "It is important to acknowledge and reward individuals, departments, or centers that supported the project and directly or indirectly influenced the success of the project. This provides the project manager an opportunity to build strong relationships for future projects while recognizing contributions. Considering giving awards for unique and significant contributions may be appropriate at the closing stage of the project."
+       },
+	   {
+		    "id": "3",
+		    "chapter": "13",
+			"term": "Administrative closure",
+			"pronun": "ad-min-uh-strey-tiv kloh-zher",
+			"soundfile": "",
+			"definition": "An information system project must be administratively closed once its product is successfully delivered to the customer. Even a failed project must be administratively closed. Sometimes the project is said to be deadlocked. This might be due to a drastic change of focus, support, personnel, executive decision, etc."
+      },
+	  {
+		    "id": "4",
+		    "chapter": "13",
+			"term": "Assigning individuals to closure tasks",
+			"pronun": "uh-sahyn-ing in-duh-vij-oo-uh ls too kloh-zher tasks",
+			"soundfile": "",
+			"definition": "Project accounts closure, Delivery acceptance, and Equipment and facility release."
+      },
+	  {
+		    "id": "5",
+		    "chapter": "13",
+			"term": "Audit plan",
+			"pronun": "aw-dit plan",
+			"soundfile": "",
+			"definition": "Despite clear benefits, most projects are not audited. Project audits require planning, take time, take resources, and influence individuals’ behavior and emotions. However, if planned and implemented properly, project audits have short and long term benefits for the organization in general and for the project manager in particular."
+      },
+	  {
+		    "id": "6",
+		    "chapter": "13",
+			"term": "Characteristics of a project audit",
+			"pronun": "kar-ik-tuh-ris-tiks uhv ey proj-ekt aw-dit",
+			"soundfile": "",
+			"definition": "Project audits are not about finger pointing, who did what wrong, judging, and retribution. Project audits are about prevention, learning from mistakes, continuous improvement, and measuring project success."
+      },
+	  {
+		    "id": "7",
+		    "chapter": "13",
+			"term": "Deadlocked",
+			"pronun": "ded-lokd",
+			"soundfile": "",
+			"definition": "This might be due to a drastic change of focus, support, personnel, executive decision, etc. In any case, the deadlocked project must be administratively closed."
+      },
+	  {
+		    "id": "8",
+		    "chapter": "13",
+			"term": "Delivery acceptance",
+			"pronun": "dih-liv-uh-ree ak-sep-tuh ns",
+			"soundfile": "",
+			"definition": "There is a potential for projects to continue adding new features, modifying existing features, providing new or additional training, and so on. Project customers often consider these activities to be a part of the original plan or their expectations."
+      },
+	  {
+		    "id": "9",
+		    "chapter": "13",
+			"term": "End of the project audit",
+			"pronun": "end uhv the pro-jekt aw-dit",
+			"soundfile": "",
+			"definition": "Carried out during the project closure phase. In other words, audits are done during project development activities and after the projects are complete."
+      },
+	  {
+		    "id": "10",
+		    "chapter": "13",
+			"term": "End-users",
+			"pronun": "end yoo-zers",
+			"soundfile": "",
+			"definition": "Partially involved with the project while they continue working for their functional areas."
+      },
+	  {
+		    "id": "11",
+		    "chapter": "13",
+			"term": "Ending closure process",
+			"pronun": "end-ing kloh-zher pros-es",
+			"soundfile": "",
+			"definition": "The project manager must ensure that project creep does not happen in the closing phase of the development life cycle. The customer or the end-user can still expect upgrades or changes, since the project is not yet formally closed. The primary intent for ending the closure process is to communicate the post-closure date to team members and the customer."
+      },
+	  {
+		    "id": "12",
+		    "chapter": "13",
+			"term": "Equipment and facility release",
+			"pronun": "ih-kwip-muh nt and fuh-sil-i-tee ree-lees",
+			"soundfile": "",
+			"definition": "Once the project is delivered, equipment and facilities that are assigned to the project’s activities must be released. These are resources that were allocated to the project for a specified duration."
+      },
+	  {
+		    "id": "13",
+		    "chapter": "13",
+			"term": "Learning organization",
+			"pronun": "lur-ning awr-guh-nuh-zey-shuh n",
+			"soundfile": "",
+			"definition": "An organization where people learn from experience, so that future projects are done better."
+      },
+	  {
+		    "id": "14",
+		    "chapter": "13",
+			"term": "Monitoring implementation",
+			"pronun": "mon-i-ter im-pluh-muh n-tey-shuh n",
+			"soundfile": "",
+			"definition": "Once closure tasks are defined and individuals are assigned to carry them out, the project manager needs to plan for monitoring the progress."
+      },
+	  {
+		    "id": "15",
+		    "chapter": "13",
+			"term": "On-going audit",
+			"pronun": "on-goh-ing aw-dit",
+			"soundfile": "",
+			"definition": "Carried out during the project development life cycle."
+      },
+	  {
+		    "id": "16",
+		    "chapter": "13",
+			"term": "Performance evaluation",
+			"pronun": "per-fawr-muh ns ih-val-yoo-ey-shuh n",
+			"soundfile": "",
+			"definition": "The project manager is responsible for evaluating each team member for their contribution to the project. This is an important responsibility, since it can influence team members’ development and careers."
+      },
+	  {
+		    "id": "17",
+		    "chapter": "13",
+			"term": "Personnel release",
+			"pronun": "pur-suh-nel ree-lees",
+			"soundfile": "",
+			"definition": "Project team members must move on to other projects, or go back to their departments, once the project is completed. Like customers, team members sometimes develop a psychological link with the project and might want to continue their involvement with the project indefinitely."
+      },
+	  {
+		    "id": "18",
+		    "chapter": "13",
+			"term": "Project audit",
+			"pronun": "pro-jekt aw-dit",
+			"soundfile": "",
+			"definition": "Project audit provides valuable feedback to the project manager and the organization."
+      },
+	  {
+		    "id": "19",
+		    "chapter": "13",
+			"term": "Project closure plan",
+			"pronun": "pro-jekt kloh-zher plan",
+			"soundfile": "",
+			"definition": "Identifying tasks necessary to close the project."
+      },
+	  {
+		    "id": "20",
+		    "chapter": "13",
+			"term": "Project closure tasks",
+			"pronun": "pro-jekt kloh-zher tasks",
+			"soundfile": "",
+			"definition": "The project manager is responsible for planning project closure. The project closure plan must address the tasks necessary to close the project."
+      },
+	  {
+		    "id": "21",
+		    "chapter": "13",
+			"term": "Reflective practitioner",
+			"pronun": "ri-flek-tiv prak-tish-uh-ner",
+			"soundfile": "",
+			"definition": "The project manager needs to learn from what went right and from what went wrong in order to guide future work."
+      },
+	  {
+		    "id": "22",
+		    "chapter": "13",
+			"term": "Self-appraisal",
+			"pronun": "self-uh-prey-zuh l",
+			"soundfile": "",
+			"definition": "The project manager must arrange a one-on-one meeting with each team member to discuss their performance. This will give project managers the opportunity to compare and contrast their appraisal of a team member with the individual’s self-evaluation."
+      }
+	]
   }]
 }
