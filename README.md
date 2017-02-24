@@ -1,4 +1,4 @@
-#OE Angular Seed#
+#Angular Seed#
 * * *
 The OE Angular Seed is an AngularJS starter app. It is based on the official AngularJS seed and includes some opinionated defaults for both Online Edcuation as well as web development in general.
 
